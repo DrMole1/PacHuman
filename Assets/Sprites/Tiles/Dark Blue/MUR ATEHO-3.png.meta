@@ -1,0 +1,5194 @@
+fileFormatVersion: 2
+guid: 62f68ae081a46a347974e32bb2c4489c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1220706253827169917
+    second: MUR ATEHO-3_0
+  - first:
+      213: 4215419472147206745
+    second: MUR ATEHO-3_1
+  - first:
+      213: -4500837774664196632
+    second: MUR ATEHO-3_2
+  - first:
+      213: 2595156277611607413
+    second: MUR ATEHO-3_3
+  - first:
+      213: 2058088823096179422
+    second: MUR ATEHO-3_4
+  - first:
+      213: 4716740854959565194
+    second: MUR ATEHO-3_5
+  - first:
+      213: 1253266933263569514
+    second: MUR ATEHO-3_6
+  - first:
+      213: 868715600909154468
+    second: MUR ATEHO-3_7
+  - first:
+      213: 1518622274656743370
+    second: MUR ATEHO-3_8
+  - first:
+      213: -1591752323501782350
+    second: MUR ATEHO-3_9
+  - first:
+      213: 2333065874750648131
+    second: MUR ATEHO-3_10
+  - first:
+      213: -2355162882464109440
+    second: MUR ATEHO-3_11
+  - first:
+      213: -4629635085186555078
+    second: MUR ATEHO-3_12
+  - first:
+      213: -6822144869120789975
+    second: MUR ATEHO-3_13
+  - first:
+      213: -2166564407825981074
+    second: MUR ATEHO-3_14
+  - first:
+      213: -8314516223422378882
+    second: MUR ATEHO-3_15
+  - first:
+      213: -4560598288149545275
+    second: MUR ATEHO-3_16
+  - first:
+      213: 4855946891136864683
+    second: MUR ATEHO-3_17
+  - first:
+      213: 5843197386079383232
+    second: MUR ATEHO-3_18
+  - first:
+      213: 4836780009649467737
+    second: MUR ATEHO-3_19
+  - first:
+      213: -6257933092920604285
+    second: MUR ATEHO-3_20
+  - first:
+      213: -834783998496189791
+    second: MUR ATEHO-3_21
+  - first:
+      213: 731873470956557469
+    second: MUR ATEHO-3_22
+  - first:
+      213: 3046485641577002747
+    second: MUR ATEHO-3_23
+  - first:
+      213: -5381535342110533307
+    second: MUR ATEHO-3_24
+  - first:
+      213: -1062411529510952541
+    second: MUR ATEHO-3_25
+  - first:
+      213: 4546748573342394540
+    second: MUR ATEHO-3_26
+  - first:
+      213: 593003895621646301
+    second: MUR ATEHO-3_27
+  - first:
+      213: -6016170084020289989
+    second: MUR ATEHO-3_28
+  - first:
+      213: 9177901302134281269
+    second: MUR ATEHO-3_29
+  - first:
+      213: -1135453648791039974
+    second: MUR ATEHO-3_30
+  - first:
+      213: -5198878451465720329
+    second: MUR ATEHO-3_31
+  - first:
+      213: -7250778917653865378
+    second: MUR ATEHO-3_32
+  - first:
+      213: -8419259205942612704
+    second: MUR ATEHO-3_33
+  - first:
+      213: -2003610128122103921
+    second: MUR ATEHO-3_34
+  - first:
+      213: -6618907577045253302
+    second: MUR ATEHO-3_35
+  - first:
+      213: 1226367941822000579
+    second: MUR ATEHO-3_36
+  - first:
+      213: 7883973224128930325
+    second: MUR ATEHO-3_37
+  - first:
+      213: 939011304722594732
+    second: MUR ATEHO-3_38
+  - first:
+      213: 5708892094205836482
+    second: MUR ATEHO-3_39
+  - first:
+      213: -5490230337750953342
+    second: MUR ATEHO-3_40
+  - first:
+      213: 5246570443308870733
+    second: MUR ATEHO-3_41
+  - first:
+      213: -5736294427398996978
+    second: MUR ATEHO-3_42
+  - first:
+      213: 8327397454085198936
+    second: MUR ATEHO-3_43
+  - first:
+      213: -829787323292790495
+    second: MUR ATEHO-3_44
+  - first:
+      213: 1538248727354861680
+    second: MUR ATEHO-3_45
+  - first:
+      213: -7106464559543349662
+    second: MUR ATEHO-3_46
+  - first:
+      213: 112157371226874045
+    second: MUR ATEHO-3_47
+  - first:
+      213: 7484258757327015612
+    second: MUR ATEHO-3_48
+  - first:
+      213: 1243459175529683655
+    second: MUR ATEHO-3_49
+  - first:
+      213: -4611527741682005813
+    second: MUR ATEHO-3_50
+  - first:
+      213: 2843023135625508040
+    second: MUR ATEHO-3_51
+  - first:
+      213: 507869411570076703
+    second: MUR ATEHO-3_52
+  - first:
+      213: -7580704485735070339
+    second: MUR ATEHO-3_53
+  - first:
+      213: -4641387185067491902
+    second: MUR ATEHO-3_54
+  - first:
+      213: 5390533571085639252
+    second: MUR ATEHO-3_55
+  - first:
+      213: 3723043761700896672
+    second: MUR ATEHO-3_56
+  - first:
+      213: -3476273415832056107
+    second: MUR ATEHO-3_57
+  - first:
+      213: 6144822542906585410
+    second: MUR ATEHO-3_58
+  - first:
+      213: -5307270505798487218
+    second: MUR ATEHO-3_59
+  - first:
+      213: 5800695513832632144
+    second: MUR ATEHO-3_60
+  - first:
+      213: 5641452255081240432
+    second: MUR ATEHO-3_61
+  - first:
+      213: 5803494056979567368
+    second: MUR ATEHO-3_62
+  - first:
+      213: -7068769938073734918
+    second: MUR ATEHO-3_63
+  - first:
+      213: -2828768351626706762
+    second: MUR ATEHO-3_64
+  - first:
+      213: 696616781840765551
+    second: MUR ATEHO-3_65
+  - first:
+      213: -8343578852992963199
+    second: MUR ATEHO-3_66
+  - first:
+      213: 6026677304840892832
+    second: MUR ATEHO-3_67
+  - first:
+      213: -6062141034201343549
+    second: MUR ATEHO-3_68
+  - first:
+      213: 5538957127183318991
+    second: MUR ATEHO-3_69
+  - first:
+      213: 7083196488018477617
+    second: MUR ATEHO-3_70
+  - first:
+      213: -3389443003316230500
+    second: MUR ATEHO-3_71
+  - first:
+      213: -1939842417569505602
+    second: MUR ATEHO-3_72
+  - first:
+      213: -5734475833012091351
+    second: MUR ATEHO-3_73
+  - first:
+      213: -6309349737911589358
+    second: MUR ATEHO-3_74
+  - first:
+      213: -6257745038927978931
+    second: MUR ATEHO-3_75
+  - first:
+      213: -1472751613747515985
+    second: MUR ATEHO-3_76
+  - first:
+      213: 6644209425654029490
+    second: MUR ATEHO-3_77
+  - first:
+      213: -2359284596187069799
+    second: MUR ATEHO-3_78
+  - first:
+      213: 6336801983678232667
+    second: MUR ATEHO-3_79
+  - first:
+      213: 3384315774656572145
+    second: MUR ATEHO-3_80
+  - first:
+      213: -4889645077653487487
+    second: MUR ATEHO-3_81
+  - first:
+      213: 2033637793544128159
+    second: MUR ATEHO-3_82
+  - first:
+      213: 3497613185426569341
+    second: MUR ATEHO-3_83
+  - first:
+      213: 3846701746608555205
+    second: MUR ATEHO-3_84
+  - first:
+      213: 2638884850704862742
+    second: MUR ATEHO-3_85
+  - first:
+      213: 830752547380454998
+    second: MUR ATEHO-3_86
+  - first:
+      213: -4748799269497060425
+    second: MUR ATEHO-3_87
+  - first:
+      213: -1978845763341488825
+    second: MUR ATEHO-3_88
+  - first:
+      213: 7211651794527279893
+    second: MUR ATEHO-3_89
+  - first:
+      213: -2906583821561593916
+    second: MUR ATEHO-3_90
+  - first:
+      213: 3593450784531107655
+    second: MUR ATEHO-3_91
+  - first:
+      213: -1536653804378131225
+    second: MUR ATEHO-3_92
+  - first:
+      213: -5891076530064376865
+    second: MUR ATEHO-3_93
+  - first:
+      213: -2790172451320903359
+    second: MUR ATEHO-3_94
+  - first:
+      213: 6401911546791308673
+    second: MUR ATEHO-3_95
+  - first:
+      213: 5483798159279204337
+    second: MUR ATEHO-3_96
+  - first:
+      213: 6433822954236888904
+    second: MUR ATEHO-3_97
+  - first:
+      213: -6916814972900640835
+    second: MUR ATEHO-3_98
+  - first:
+      213: 6165875906593272791
+    second: MUR ATEHO-3_99
+  - first:
+      213: -6525581967399152441
+    second: MUR ATEHO-3_100
+  - first:
+      213: 9129579874571984639
+    second: MUR ATEHO-3_101
+  - first:
+      213: -1681974482757460192
+    second: MUR ATEHO-3_102
+  - first:
+      213: 6292992616913785588
+    second: MUR ATEHO-3_103
+  - first:
+      213: -1920573343014771668
+    second: MUR ATEHO-3_104
+  - first:
+      213: -6315716108052902309
+    second: MUR ATEHO-3_105
+  - first:
+      213: 2480280642507468864
+    second: MUR ATEHO-3_106
+  - first:
+      213: -1105611545733285003
+    second: MUR ATEHO-3_107
+  - first:
+      213: -1085836073803773073
+    second: MUR ATEHO-3_108
+  - first:
+      213: -842842413910873055
+    second: MUR ATEHO-3_109
+  - first:
+      213: 56720825438165772
+    second: MUR ATEHO-3_110
+  - first:
+      213: 6233872891642349010
+    second: MUR ATEHO-3_111
+  - first:
+      213: 3254667986579297233
+    second: MUR ATEHO-3_112
+  - first:
+      213: -4879902944396806040
+    second: MUR ATEHO-3_113
+  - first:
+      213: 5607846728087006956
+    second: MUR ATEHO-3_114
+  - first:
+      213: -7296034178238296268
+    second: MUR ATEHO-3_115
+  - first:
+      213: -8245151623534778661
+    second: MUR ATEHO-3_116
+  - first:
+      213: 2599981519381092657
+    second: MUR ATEHO-3_117
+  - first:
+      213: 6918009451042757253
+    second: MUR ATEHO-3_118
+  - first:
+      213: 1742491720495921527
+    second: MUR ATEHO-3_119
+  - first:
+      213: -8968437879289611281
+    second: MUR ATEHO-3_120
+  - first:
+      213: 3022555686615501934
+    second: MUR ATEHO-3_121
+  - first:
+      213: -4712396625667620296
+    second: MUR ATEHO-3_122
+  - first:
+      213: -2491954593104537477
+    second: MUR ATEHO-3_123
+  - first:
+      213: 815143981900756099
+    second: MUR ATEHO-3_124
+  - first:
+      213: -7135657811378716787
+    second: MUR ATEHO-3_125
+  - first:
+      213: -8170097868950562842
+    second: MUR ATEHO-3_126
+  - first:
+      213: -2611794173048163609
+    second: MUR ATEHO-3_127
+  - first:
+      213: 6090044896023439493
+    second: MUR ATEHO-3_128
+  - first:
+      213: 2121082010447307145
+    second: MUR ATEHO-3_129
+  - first:
+      213: -2681921325785910863
+    second: MUR ATEHO-3_130
+  - first:
+      213: 2559864833065759135
+    second: MUR ATEHO-3_131
+  - first:
+      213: -1728776117128723310
+    second: MUR ATEHO-3_132
+  - first:
+      213: 89005752228266217
+    second: MUR ATEHO-3_133
+  - first:
+      213: 3371241830157682100
+    second: MUR ATEHO-3_134
+  - first:
+      213: -7636372688704397063
+    second: MUR ATEHO-3_135
+  - first:
+      213: -3723364262645960781
+    second: MUR ATEHO-3_136
+  - first:
+      213: 9104345923365362208
+    second: MUR ATEHO-3_137
+  - first:
+      213: 3879327103927791264
+    second: MUR ATEHO-3_138
+  - first:
+      213: 5794570789198570615
+    second: MUR ATEHO-3_139
+  - first:
+      213: 9150588885098543344
+    second: MUR ATEHO-3_140
+  - first:
+      213: -5003914289445418361
+    second: MUR ATEHO-3_141
+  - first:
+      213: 5151710950481780683
+    second: MUR ATEHO-3_142
+  - first:
+      213: 3374477464358684922
+    second: MUR ATEHO-3_143
+  - first:
+      213: -4427985802901201865
+    second: MUR ATEHO-3_144
+  - first:
+      213: -1356583841646388817
+    second: MUR ATEHO-3_145
+  - first:
+      213: -5586915330487060791
+    second: MUR ATEHO-3_146
+  - first:
+      213: 5733430891630582368
+    second: MUR ATEHO-3_147
+  - first:
+      213: -5282118136255752472
+    second: MUR ATEHO-3_148
+  - first:
+      213: 115678621582353389
+    second: MUR ATEHO-3_149
+  - first:
+      213: 6302792163577169097
+    second: MUR ATEHO-3_150
+  - first:
+      213: -614375889243841137
+    second: MUR ATEHO-3_151
+  - first:
+      213: -7673375709777610860
+    second: MUR ATEHO-3_152
+  - first:
+      213: 7165414443506519679
+    second: MUR ATEHO-3_153
+  - first:
+      213: 285224990736034819
+    second: MUR ATEHO-3_154
+  - first:
+      213: -5113668194682862432
+    second: MUR ATEHO-3_155
+  - first:
+      213: 6563260676360905307
+    second: MUR ATEHO-3_156
+  - first:
+      213: -5786459707007819490
+    second: MUR ATEHO-3_157
+  - first:
+      213: 4143951996406902605
+    second: MUR ATEHO-3_158
+  - first:
+      213: -8945190320427797140
+    second: MUR ATEHO-3_159
+  - first:
+      213: -7038714709192124865
+    second: MUR ATEHO-3_160
+  - first:
+      213: -7914688602829742903
+    second: MUR ATEHO-3_161
+  - first:
+      213: -8330595194767344358
+    second: MUR ATEHO-3_162
+  - first:
+      213: 6429116489946277612
+    second: MUR ATEHO-3_163
+  - first:
+      213: -8659851275340108140
+    second: MUR ATEHO-3_164
+  - first:
+      213: 102299155885302932
+    second: MUR ATEHO-3_165
+  - first:
+      213: -3671759402191936240
+    second: MUR ATEHO-3_166
+  - first:
+      213: 5254508967080932670
+    second: MUR ATEHO-3_167
+  - first:
+      213: 1259262176922811489
+    second: MUR ATEHO-3_168
+  - first:
+      213: -1647191863563724139
+    second: MUR ATEHO-3_169
+  - first:
+      213: -2041957519743398125
+    second: MUR ATEHO-3_170
+  - first:
+      213: 4854043348945260436
+    second: MUR ATEHO-3_171
+  - first:
+      213: -940270649263615269
+    second: MUR ATEHO-3_172
+  - first:
+      213: 2386689538374464641
+    second: MUR ATEHO-3_173
+  - first:
+      213: 219793465374587003
+    second: MUR ATEHO-3_174
+  - first:
+      213: 7295657153507367705
+    second: MUR ATEHO-3_175
+  - first:
+      213: -4359108330435999366
+    second: MUR ATEHO-3_176
+  - first:
+      213: 2026073447649367394
+    second: MUR ATEHO-3_177
+  - first:
+      213: 8094697029941531243
+    second: MUR ATEHO-3_178
+  - first:
+      213: 3788430152021575816
+    second: MUR ATEHO-3_179
+  - first:
+      213: -7241605843463506305
+    second: MUR ATEHO-3_180
+  - first:
+      213: -2858618139435842358
+    second: MUR ATEHO-3_181
+  - first:
+      213: -6216420008305619289
+    second: MUR ATEHO-3_182
+  - first:
+      213: 696041624172434606
+    second: MUR ATEHO-3_183
+  - first:
+      213: -3867963399061867740
+    second: MUR ATEHO-3_184
+  - first:
+      213: -8126536259198476058
+    second: MUR ATEHO-3_185
+  - first:
+      213: -5490784863099337621
+    second: MUR ATEHO-3_186
+  - first:
+      213: -1234836398883634733
+    second: MUR ATEHO-3_187
+  - first:
+      213: 5249895267820047519
+    second: MUR ATEHO-3_188
+  - first:
+      213: 2125691677361075994
+    second: MUR ATEHO-3_189
+  - first:
+      213: 5182630253424696413
+    second: MUR ATEHO-3_190
+  - first:
+      213: -3073602684147463869
+    second: MUR ATEHO-3_191
+  - first:
+      213: -4570658361742137677
+    second: MUR ATEHO-3_192
+  - first:
+      213: 7561402353070564908
+    second: MUR ATEHO-3_193
+  - first:
+      213: 5839930679789850971
+    second: MUR ATEHO-3_194
+  - first:
+      213: -7790666847248281874
+    second: MUR ATEHO-3_195
+  - first:
+      213: -8642172060621632975
+    second: MUR ATEHO-3_196
+  - first:
+      213: -5600321285589217664
+    second: MUR ATEHO-3_197
+  - first:
+      213: -5185688133597173334
+    second: MUR ATEHO-3_198
+  - first:
+      213: -5902950886723737840
+    second: MUR ATEHO-3_199
+  - first:
+      213: -4052758783688892391
+    second: MUR ATEHO-3_200
+  - first:
+      213: 8500772100581425040
+    second: MUR ATEHO-3_201
+  - first:
+      213: 5657802509355350751
+    second: MUR ATEHO-3_202
+  - first:
+      213: -4443065835030558556
+    second: MUR ATEHO-3_203
+  - first:
+      213: 2390102007475337253
+    second: MUR ATEHO-3_204
+  - first:
+      213: 7903627061249038243
+    second: MUR ATEHO-3_205
+  - first:
+      213: -5143277175078607666
+    second: MUR ATEHO-3_206
+  - first:
+      213: 1773233274801563901
+    second: MUR ATEHO-3_207
+  - first:
+      213: -8244673669560912086
+    second: MUR ATEHO-3_208
+  - first:
+      213: 3058831897623532870
+    second: MUR ATEHO-3_209
+  - first:
+      213: 1847080999504836604
+    second: MUR ATEHO-3_210
+  - first:
+      213: -3987882792271280761
+    second: MUR ATEHO-3_211
+  - first:
+      213: -7443255205038985238
+    second: MUR ATEHO-3_212
+  - first:
+      213: 6331505245274948598
+    second: MUR ATEHO-3_213
+  - first:
+      213: 4903196097817257740
+    second: MUR ATEHO-3_214
+  - first:
+      213: -1147995192726234994
+    second: MUR ATEHO-3_215
+  - first:
+      213: 765338814823492581
+    second: MUR ATEHO-3_216
+  - first:
+      213: -3719462349475281997
+    second: MUR ATEHO-3_217
+  - first:
+      213: -2299852107754596705
+    second: MUR ATEHO-3_218
+  - first:
+      213: 7747388832457823860
+    second: MUR ATEHO-3_219
+  - first:
+      213: -6992656017872458421
+    second: MUR ATEHO-3_220
+  - first:
+      213: 219323180197944527
+    second: MUR ATEHO-3_221
+  - first:
+      213: 3243017958641938708
+    second: MUR ATEHO-3_222
+  - first:
+      213: -6634993808755893925
+    second: MUR ATEHO-3_223
+  - first:
+      213: -8624028114229360344
+    second: MUR ATEHO-3_224
+  - first:
+      213: -2574437999802073056
+    second: MUR ATEHO-3_225
+  - first:
+      213: -4435285285999834948
+    second: MUR ATEHO-3_226
+  - first:
+      213: 3509265008222482671
+    second: MUR ATEHO-3_227
+  - first:
+      213: -1077148106272798412
+    second: MUR ATEHO-3_228
+  - first:
+      213: 8403713915417336709
+    second: MUR ATEHO-3_229
+  - first:
+      213: -6022179165626889938
+    second: MUR ATEHO-3_230
+  - first:
+      213: -7318619460273351141
+    second: MUR ATEHO-3_231
+  - first:
+      213: 1388602518765736057
+    second: MUR ATEHO-3_232
+  - first:
+      213: -5914281631715584562
+    second: MUR ATEHO-3_233
+  - first:
+      213: -3908038584438757287
+    second: MUR ATEHO-3_234
+  - first:
+      213: -283858237395772646
+    second: MUR ATEHO-3_235
+  - first:
+      213: -5695173265815849633
+    second: MUR ATEHO-3_236
+  - first:
+      213: 8401867193330053443
+    second: MUR ATEHO-3_237
+  - first:
+      213: -2645227660680152090
+    second: MUR ATEHO-3_238
+  - first:
+      213: -1326721899719897830
+    second: MUR ATEHO-3_239
+  - first:
+      213: 6277757063482034426
+    second: MUR ATEHO-3_240
+  - first:
+      213: 2701621524130765070
+    second: MUR ATEHO-3_241
+  - first:
+      213: 3535181232048283339
+    second: MUR ATEHO-3_242
+  - first:
+      213: 2421728665320076040
+    second: MUR ATEHO-3_243
+  - first:
+      213: 7942583579411907996
+    second: MUR ATEHO-3_244
+  - first:
+      213: -6691926175173451211
+    second: MUR ATEHO-3_245
+  - first:
+      213: 3897968442480094879
+    second: MUR ATEHO-3_246
+  - first:
+      213: -173459612990442994
+    second: MUR ATEHO-3_247
+  - first:
+      213: 4626798708924164909
+    second: MUR ATEHO-3_248
+  - first:
+      213: -6067471096969767134
+    second: MUR ATEHO-3_249
+  - first:
+      213: 7938895772530046942
+    second: MUR ATEHO-3_250
+  - first:
+      213: 1874900438320894660
+    second: MUR ATEHO-3_251
+  - first:
+      213: 4762353364840915819
+    second: MUR ATEHO-3_252
+  - first:
+      213: -4574459229330670690
+    second: MUR ATEHO-3_253
+  - first:
+      213: 7758531674343740514
+    second: MUR ATEHO-3_254
+  - first:
+      213: -115936556426276612
+    second: MUR ATEHO-3_255
+  - first:
+      213: 8878813899039624999
+    second: MUR ATEHO-3_256
+  - first:
+      213: 4319143202974824020
+    second: MUR ATEHO-3_257
+  - first:
+      213: 7145928544901933113
+    second: MUR ATEHO-3_258
+  - first:
+      213: 3029458537888687379
+    second: MUR ATEHO-3_259
+  - first:
+      213: -5194298159427589509
+    second: MUR ATEHO-3_260
+  - first:
+      213: 4032616530551870244
+    second: MUR ATEHO-3_261
+  - first:
+      213: -5581447348217383469
+    second: MUR ATEHO-3_262
+  - first:
+      213: 6029431620121439007
+    second: MUR ATEHO-3_263
+  - first:
+      213: 7145504987247460353
+    second: MUR ATEHO-3_264
+  - first:
+      213: 1295950928595944411
+    second: MUR ATEHO-3_265
+  - first:
+      213: -7208802412323352116
+    second: MUR ATEHO-3_266
+  - first:
+      213: 5829066168004487439
+    second: MUR ATEHO-3_267
+  - first:
+      213: -8277346364708632930
+    second: MUR ATEHO-3_268
+  - first:
+      213: -4863201898221785466
+    second: MUR ATEHO-3_269
+  - first:
+      213: 8122600526097180518
+    second: MUR ATEHO-3_270
+  - first:
+      213: -1066444054743457082
+    second: MUR ATEHO-3_271
+  - first:
+      213: 2161068650205570995
+    second: MUR ATEHO-3_272
+  - first:
+      213: 4769123401087656576
+    second: MUR ATEHO-3_273
+  - first:
+      213: -505638813120097058
+    second: MUR ATEHO-3_274
+  - first:
+      213: -1653641937449192846
+    second: MUR ATEHO-3_275
+  - first:
+      213: 7435556307981647538
+    second: MUR ATEHO-3_276
+  - first:
+      213: 6651436658428590907
+    second: MUR ATEHO-3_277
+  - first:
+      213: 4415285666476485752
+    second: MUR ATEHO-3_278
+  - first:
+      213: 284891428588411416
+    second: MUR ATEHO-3_279
+  - first:
+      213: -6513168986552264390
+    second: MUR ATEHO-3_280
+  - first:
+      213: -7864931841136877882
+    second: MUR ATEHO-3_281
+  - first:
+      213: 4421034148419386396
+    second: MUR ATEHO-3_282
+  - first:
+      213: 5080451944983129295
+    second: MUR ATEHO-3_283
+  - first:
+      213: 5266502248146246211
+    second: MUR ATEHO-3_284
+  - first:
+      213: 3550258819013012797
+    second: MUR ATEHO-3_285
+  - first:
+      213: -4572521275270551408
+    second: MUR ATEHO-3_286
+  - first:
+      213: -6849432911616539043
+    second: MUR ATEHO-3_287
+  - first:
+      213: 5593338024217180735
+    second: MUR ATEHO-3_288
+  - first:
+      213: -2613186816211814933
+    second: MUR ATEHO-3_289
+  - first:
+      213: -4863940751777111398
+    second: MUR ATEHO-3_290
+  - first:
+      213: 3364648321854978177
+    second: MUR ATEHO-3_291
+  - first:
+      213: 8433792194323643864
+    second: MUR ATEHO-3_292
+  - first:
+      213: 6499493697251615004
+    second: MUR ATEHO-3_293
+  - first:
+      213: 2037734092569470214
+    second: MUR ATEHO-3_294
+  - first:
+      213: -6395379080149274416
+    second: MUR ATEHO-3_295
+  - first:
+      213: -5603505488875134856
+    second: MUR ATEHO-3_296
+  - first:
+      213: 8130463415982780112
+    second: MUR ATEHO-3_297
+  - first:
+      213: -8648873607217754859
+    second: MUR ATEHO-3_298
+  - first:
+      213: 2427565620615669397
+    second: MUR ATEHO-3_299
+  - first:
+      213: 7716844367456119601
+    second: MUR ATEHO-3_300
+  - first:
+      213: -9083430366762967236
+    second: MUR ATEHO-3_301
+  - first:
+      213: 8784044757943269140
+    second: MUR ATEHO-3_302
+  - first:
+      213: -6352636234671583202
+    second: MUR ATEHO-3_303
+  - first:
+      213: 9021441327536877745
+    second: MUR ATEHO-3_304
+  - first:
+      213: -5814899791239692017
+    second: MUR ATEHO-3_305
+  - first:
+      213: 6709074409196490883
+    second: MUR ATEHO-3_306
+  - first:
+      213: 450196745042396821
+    second: MUR ATEHO-3_307
+  - first:
+      213: 3083929151136194683
+    second: MUR ATEHO-3_308
+  - first:
+      213: -8571671252524023933
+    second: MUR ATEHO-3_309
+  - first:
+      213: 717768579668873864
+    second: MUR ATEHO-3_310
+  - first:
+      213: 7566384223065006483
+    second: MUR ATEHO-3_311
+  - first:
+      213: -5424783798617603718
+    second: MUR ATEHO-3_312
+  - first:
+      213: -1445831280450948932
+    second: MUR ATEHO-3_313
+  - first:
+      213: 8754822951368201181
+    second: MUR ATEHO-3_314
+  - first:
+      213: -1711682018419618796
+    second: MUR ATEHO-3_315
+  - first:
+      213: 336075370693096656
+    second: MUR ATEHO-3_316
+  - first:
+      213: 5158895352670319202
+    second: MUR ATEHO-3_317
+  - first:
+      213: 9156789529440469710
+    second: MUR ATEHO-3_318
+  - first:
+      213: 5952212899575742717
+    second: MUR ATEHO-3_319
+  - first:
+      213: 5893611263441677601
+    second: MUR ATEHO-3_320
+  - first:
+      213: 3626649409404844888
+    second: MUR ATEHO-3_321
+  - first:
+      213: -8205445643774274181
+    second: MUR ATEHO-3_322
+  - first:
+      213: -1635965153870758967
+    second: MUR ATEHO-3_323
+  - first:
+      213: 3791878220680691420
+    second: MUR ATEHO-3_324
+  - first:
+      213: -7079914177175521743
+    second: MUR ATEHO-3_325
+  - first:
+      213: 4500890389062262321
+    second: MUR ATEHO-3_326
+  - first:
+      213: -8495719142167844325
+    second: MUR ATEHO-3_327
+  - first:
+      213: 681545561251542917
+    second: MUR ATEHO-3_328
+  - first:
+      213: 8316771460560947331
+    second: MUR ATEHO-3_329
+  - first:
+      213: 3763314604845774724
+    second: MUR ATEHO-3_330
+  - first:
+      213: -1046114812095507989
+    second: MUR ATEHO-3_331
+  - first:
+      213: -4327983762235760781
+    second: MUR ATEHO-3_332
+  - first:
+      213: -7168240385189996502
+    second: MUR ATEHO-3_333
+  - first:
+      213: 4098417665756032860
+    second: MUR ATEHO-3_334
+  - first:
+      213: 2549950186976857298
+    second: MUR ATEHO-3_335
+  - first:
+      213: 6657953677521556346
+    second: MUR ATEHO-3_336
+  - first:
+      213: 8362538683254226464
+    second: MUR ATEHO-3_337
+  - first:
+      213: -3964332635872150287
+    second: MUR ATEHO-3_338
+  - first:
+      213: -9210830460544793788
+    second: MUR ATEHO-3_339
+  - first:
+      213: -6380569558242622271
+    second: MUR ATEHO-3_340
+  - first:
+      213: -384394189945924914
+    second: MUR ATEHO-3_341
+  - first:
+      213: 4935378965971338597
+    second: MUR ATEHO-3_342
+  - first:
+      213: -5544355621059168031
+    second: MUR ATEHO-3_343
+  - first:
+      213: 4756683505219941817
+    second: MUR ATEHO-3_344
+  - first:
+      213: -9181320255460739945
+    second: MUR ATEHO-3_345
+  - first:
+      213: 5770663448873597485
+    second: MUR ATEHO-3_346
+  - first:
+      213: 8033281582991638832
+    second: MUR ATEHO-3_347
+  - first:
+      213: 5851942233388292638
+    second: MUR ATEHO-3_348
+  - first:
+      213: -8092542581880569371
+    second: MUR ATEHO-3_349
+  - first:
+      213: 8635809758848939490
+    second: MUR ATEHO-3_350
+  - first:
+      213: -785165781130185364
+    second: MUR ATEHO-3_351
+  - first:
+      213: 2578670921953574402
+    second: MUR ATEHO-3_352
+  - first:
+      213: 3222384908623046102
+    second: MUR ATEHO-3_353
+  - first:
+      213: 8724746444908698547
+    second: MUR ATEHO-3_354
+  - first:
+      213: -4707036952598271229
+    second: MUR ATEHO-3_355
+  - first:
+      213: 6652030305433493377
+    second: MUR ATEHO-3_356
+  - first:
+      213: -4285630180097901821
+    second: MUR ATEHO-3_357
+  - first:
+      213: 5797446667241723199
+    second: MUR ATEHO-3_358
+  - first:
+      213: -1855741886992572789
+    second: MUR ATEHO-3_359
+  - first:
+      213: 1122780008572721388
+    second: MUR ATEHO-3_360
+  - first:
+      213: -2072791854226902208
+    second: MUR ATEHO-3_361
+  - first:
+      213: 7173657897219879339
+    second: MUR ATEHO-3_362
+  - first:
+      213: 5433991572389478189
+    second: MUR ATEHO-3_363
+  - first:
+      213: 3431031150037901814
+    second: MUR ATEHO-3_364
+  - first:
+      213: 7869129218067779713
+    second: MUR ATEHO-3_365
+  - first:
+      213: 5952825625116232850
+    second: MUR ATEHO-3_366
+  - first:
+      213: 6460149393028074900
+    second: MUR ATEHO-3_367
+  - first:
+      213: -5439494429041572052
+    second: MUR ATEHO-3_368
+  - first:
+      213: -7000339351430843762
+    second: MUR ATEHO-3_369
+  - first:
+      213: -4155216924699057437
+    second: MUR ATEHO-3_370
+  - first:
+      213: 7131086340288329707
+    second: MUR ATEHO-3_371
+  - first:
+      213: 2810013153819730701
+    second: MUR ATEHO-3_372
+  - first:
+      213: -225202588683958597
+    second: MUR ATEHO-3_373
+  - first:
+      213: 6280447026122494703
+    second: MUR ATEHO-3_374
+  - first:
+      213: -4442587198939552390
+    second: MUR ATEHO-3_375
+  - first:
+      213: 1918515593789741551
+    second: MUR ATEHO-3_376
+  - first:
+      213: 5848615195589765905
+    second: MUR ATEHO-3_377
+  - first:
+      213: 5141166374770542435
+    second: MUR ATEHO-3_378
+  - first:
+      213: 3959654654955710183
+    second: MUR ATEHO-3_379
+  - first:
+      213: -7929811772154242392
+    second: MUR ATEHO-3_380
+  - first:
+      213: 8930801030455103386
+    second: MUR ATEHO-3_381
+  - first:
+      213: -700209034399135696
+    second: MUR ATEHO-3_382
+  - first:
+      213: -3661568367914224813
+    second: MUR ATEHO-3_383
+  - first:
+      213: 2771452583848165905
+    second: MUR ATEHO-3_384
+  - first:
+      213: 800970408578549857
+    second: MUR ATEHO-3_385
+  - first:
+      213: -2710822297316908849
+    second: MUR ATEHO-3_386
+  - first:
+      213: 8427805405260064494
+    second: MUR ATEHO-3_387
+  - first:
+      213: -1376120251220618510
+    second: MUR ATEHO-3_388
+  - first:
+      213: 6169941048811953651
+    second: MUR ATEHO-3_389
+  - first:
+      213: 2253248764300625778
+    second: MUR ATEHO-3_390
+  - first:
+      213: 293584432092912518
+    second: MUR ATEHO-3_391
+  - first:
+      213: 4925125613544594583
+    second: MUR ATEHO-3_392
+  - first:
+      213: 3343663768866106221
+    second: MUR ATEHO-3_393
+  - first:
+      213: -5985137895911143546
+    second: MUR ATEHO-3_394
+  - first:
+      213: 4014823891894594142
+    second: MUR ATEHO-3_395
+  - first:
+      213: 3789043070692738902
+    second: MUR ATEHO-3_396
+  - first:
+      213: 5827062031993518626
+    second: MUR ATEHO-3_397
+  - first:
+      213: 5716424136252040813
+    second: MUR ATEHO-3_398
+  - first:
+      213: 6458688405885580251
+    second: MUR ATEHO-3_399
+  - first:
+      213: 1317645449081845963
+    second: MUR ATEHO-3_400
+  - first:
+      213: -7194174312507777423
+    second: MUR ATEHO-3_401
+  - first:
+      213: -1409521683411772737
+    second: MUR ATEHO-3_402
+  - first:
+      213: 306220582365818456
+    second: MUR ATEHO-3_403
+  - first:
+      213: -5553420442989281689
+    second: MUR ATEHO-3_404
+  - first:
+      213: -3372369180759332537
+    second: MUR ATEHO-3_405
+  - first:
+      213: 4680162194394823603
+    second: MUR ATEHO-3_406
+  - first:
+      213: 268804255617312194
+    second: MUR ATEHO-3_407
+  - first:
+      213: 5995831328803634462
+    second: MUR ATEHO-3_408
+  - first:
+      213: -7680946387127766757
+    second: MUR ATEHO-3_409
+  - first:
+      213: -1338844734744465612
+    second: MUR ATEHO-3_410
+  - first:
+      213: -2655913547004894612
+    second: MUR ATEHO-3_411
+  - first:
+      213: 1370282911200299608
+    second: MUR ATEHO-3_412
+  - first:
+      213: 3074589687034105376
+    second: MUR ATEHO-3_413
+  - first:
+      213: -3411621049722167622
+    second: MUR ATEHO-3_414
+  - first:
+      213: -8199427727870591292
+    second: MUR ATEHO-3_415
+  - first:
+      213: 2226543957497510476
+    second: MUR ATEHO-3_416
+  - first:
+      213: 1252482927609968860
+    second: MUR ATEHO-3_417
+  - first:
+      213: -2296003503121430430
+    second: MUR ATEHO-3_418
+  - first:
+      213: 2752887423340241228
+    second: MUR ATEHO-3_419
+  - first:
+      213: -3400675694460286285
+    second: MUR ATEHO-3_420
+  - first:
+      213: 545705541597497556
+    second: MUR ATEHO-3_421
+  - first:
+      213: 7821744589159423538
+    second: MUR ATEHO-3_422
+  - first:
+      213: 6722917427785582883
+    second: MUR ATEHO-3_423
+  - first:
+      213: 5962083587882630940
+    second: MUR ATEHO-3_424
+  - first:
+      213: 4222990230613144850
+    second: MUR ATEHO-3_425
+  - first:
+      213: -2427571508533933891
+    second: MUR ATEHO-3_426
+  - first:
+      213: -7399488382713674671
+    second: MUR ATEHO-3_427
+  - first:
+      213: 4707098238013035104
+    second: MUR ATEHO-3_428
+  - first:
+      213: 1703532888063137723
+    second: MUR ATEHO-3_429
+  - first:
+      213: -1368343531023806476
+    second: MUR ATEHO-3_430
+  - first:
+      213: -8303491651846067554
+    second: MUR ATEHO-3_431
+  - first:
+      213: -995175271932565296
+    second: MUR ATEHO-3_432
+  - first:
+      213: -6127623520386967936
+    second: MUR ATEHO-3_433
+  - first:
+      213: -1571907145872568164
+    second: MUR ATEHO-3_434
+  - first:
+      213: -2362603482202231809
+    second: MUR ATEHO-3_435
+  - first:
+      213: 7502463796151960144
+    second: MUR ATEHO-3_436
+  - first:
+      213: -3647998524800170923
+    second: MUR ATEHO-3_437
+  - first:
+      213: 3781689956589056952
+    second: MUR ATEHO-3_438
+  - first:
+      213: -8275238797040929658
+    second: MUR ATEHO-3_439
+  - first:
+      213: -2004136457817059737
+    second: MUR ATEHO-3_440
+  - first:
+      213: 3124849251630290193
+    second: MUR ATEHO-3_441
+  - first:
+      213: 2841819650546910219
+    second: MUR ATEHO-3_442
+  - first:
+      213: -2860900695818521077
+    second: MUR ATEHO-3_443
+  - first:
+      213: 5141013392800407999
+    second: MUR ATEHO-3_444
+  - first:
+      213: 2356294858016514597
+    second: MUR ATEHO-3_445
+  - first:
+      213: -2389901979622827576
+    second: MUR ATEHO-3_446
+  - first:
+      213: -984261012546869795
+    second: MUR ATEHO-3_447
+  - first:
+      213: 8209622441615110293
+    second: MUR ATEHO-3_448
+  - first:
+      213: 347066372218332653
+    second: MUR ATEHO-3_449
+  - first:
+      213: 4469915254076384958
+    second: MUR ATEHO-3_450
+  - first:
+      213: 8551633233773336822
+    second: MUR ATEHO-3_451
+  - first:
+      213: -216618924261797287
+    second: MUR ATEHO-3_452
+  - first:
+      213: 8155136017904747351
+    second: MUR ATEHO-3_453
+  - first:
+      213: -8658269024477693806
+    second: MUR ATEHO-3_454
+  - first:
+      213: 6943411223020967249
+    second: MUR ATEHO-3_455
+  - first:
+      213: -2839866966527105037
+    second: MUR ATEHO-3_456
+  - first:
+      213: 6474277908660575461
+    second: MUR ATEHO-3_457
+  - first:
+      213: -2059406912548773391
+    second: MUR ATEHO-3_458
+  - first:
+      213: -5531706450853944776
+    second: MUR ATEHO-3_459
+  - first:
+      213: -2178432184569535725
+    second: MUR ATEHO-3_460
+  - first:
+      213: -8608226300082283822
+    second: MUR ATEHO-3_461
+  - first:
+      213: 8501159243108654263
+    second: MUR ATEHO-3_462
+  - first:
+      213: 6884877283508678329
+    second: MUR ATEHO-3_463
+  - first:
+      213: -6859478902344819154
+    second: MUR ATEHO-3_464
+  - first:
+      213: -7433220511222171908
+    second: MUR ATEHO-3_465
+  - first:
+      213: -8489552969694078501
+    second: MUR ATEHO-3_466
+  - first:
+      213: 6123827555939157183
+    second: MUR ATEHO-3_467
+  - first:
+      213: 1706882614959606344
+    second: MUR ATEHO-3_468
+  - first:
+      213: -8286170553940806326
+    second: MUR ATEHO-3_469
+  - first:
+      213: 7138030751040090474
+    second: MUR ATEHO-3_470
+  - first:
+      213: 2219499947267450996
+    second: MUR ATEHO-3_471
+  - first:
+      213: -4588968062416602597
+    second: MUR ATEHO-3_472
+  - first:
+      213: 300319719814136396
+    second: MUR ATEHO-3_473
+  - first:
+      213: 963067431751423181
+    second: MUR ATEHO-3_474
+  - first:
+      213: 1852588793880863678
+    second: MUR ATEHO-3_475
+  - first:
+      213: -1721908507276476683
+    second: MUR ATEHO-3_476
+  - first:
+      213: -4241256358778232685
+    second: MUR ATEHO-3_477
+  - first:
+      213: 1893483757621995994
+    second: MUR ATEHO-3_478
+  - first:
+      213: 3133068909974823779
+    second: MUR ATEHO-3_479
+  - first:
+      213: -9177072230833005723
+    second: MUR ATEHO-3_480
+  - first:
+      213: 8404083559864604560
+    second: MUR ATEHO-3_481
+  - first:
+      213: 1638204387544293890
+    second: MUR ATEHO-3_482
+  - first:
+      213: -8129176691159913290
+    second: MUR ATEHO-3_483
+  - first:
+      213: 2046974561351316387
+    second: MUR ATEHO-3_484
+  - first:
+      213: -1223171741549797937
+    second: MUR ATEHO-3_485
+  - first:
+      213: -3861181366166051899
+    second: MUR ATEHO-3_486
+  - first:
+      213: 7224040176055074606
+    second: MUR ATEHO-3_487
+  - first:
+      213: 4369691028423528274
+    second: MUR ATEHO-3_488
+  - first:
+      213: 4635010804365332642
+    second: MUR ATEHO-3_489
+  - first:
+      213: -144130727615422600
+    second: MUR ATEHO-3_490
+  - first:
+      213: -7758196812379784275
+    second: MUR ATEHO-3_491
+  - first:
+      213: 3100778662835238488
+    second: MUR ATEHO-3_492
+  - first:
+      213: -3371104402708218360
+    second: MUR ATEHO-3_493
+  - first:
+      213: -3570286776191969891
+    second: MUR ATEHO-3_494
+  - first:
+      213: 8523232081586340424
+    second: MUR ATEHO-3_495
+  - first:
+      213: -6892810563021918317
+    second: MUR ATEHO-3_496
+  - first:
+      213: 2234975001252389178
+    second: MUR ATEHO-3_497
+  - first:
+      213: -1625746767400042857
+    second: MUR ATEHO-3_498
+  - first:
+      213: -1009472565686964041
+    second: MUR ATEHO-3_499
+  - first:
+      213: 798163424894773218
+    second: MUR ATEHO-3_500
+  - first:
+      213: -5389750975531667584
+    second: MUR ATEHO-3_501
+  - first:
+      213: 550712203415103914
+    second: MUR ATEHO-3_502
+  - first:
+      213: 3190493114571194251
+    second: MUR ATEHO-3_503
+  - first:
+      213: -8671784958483568254
+    second: MUR ATEHO-3_504
+  - first:
+      213: -4512390467237318027
+    second: MUR ATEHO-3_505
+  - first:
+      213: -5218334052317923374
+    second: MUR ATEHO-3_506
+  - first:
+      213: -4643863249594738923
+    second: MUR ATEHO-3_507
+  - first:
+      213: 3410484126817192781
+    second: MUR ATEHO-3_508
+  - first:
+      213: -2144020610756962828
+    second: MUR ATEHO-3_509
+  - first:
+      213: -6341620357243187634
+    second: MUR ATEHO-3_510
+  - first:
+      213: -6695379659529737509
+    second: MUR ATEHO-3_511
+  - first:
+      213: -6139365531327380158
+    second: MUR ATEHO-3_512
+  - first:
+      213: 2363238029938889084
+    second: MUR ATEHO-3_513
+  - first:
+      213: -4046806421740846801
+    second: MUR ATEHO-3_514
+  - first:
+      213: -5153614861619125624
+    second: MUR ATEHO-3_515
+  - first:
+      213: -6272021839477794011
+    second: MUR ATEHO-3_516
+  - first:
+      213: -4065000393117088033
+    second: MUR ATEHO-3_517
+  - first:
+      213: -3015372998999996440
+    second: MUR ATEHO-3_518
+  - first:
+      213: -8050474051973477490
+    second: MUR ATEHO-3_519
+  - first:
+      213: 5441046878073343711
+    second: MUR ATEHO-3_520
+  - first:
+      213: -8115584407423005600
+    second: MUR ATEHO-3_521
+  - first:
+      213: 7537184238782944688
+    second: MUR ATEHO-3_522
+  - first:
+      213: -4745908306045690982
+    second: MUR ATEHO-3_523
+  - first:
+      213: 4322206487997091599
+    second: MUR ATEHO-3_524
+  - first:
+      213: 417475793931957001
+    second: MUR ATEHO-3_525
+  - first:
+      213: 5606515818155058681
+    second: MUR ATEHO-3_526
+  - first:
+      213: -4488545939260410620
+    second: MUR ATEHO-3_527
+  - first:
+      213: -6861686774907956893
+    second: MUR ATEHO-3_528
+  - first:
+      213: -3149865037602529881
+    second: MUR ATEHO-3_529
+  - first:
+      213: 3914371704247396867
+    second: MUR ATEHO-3_530
+  - first:
+      213: -6432931156299281860
+    second: MUR ATEHO-3_531
+  - first:
+      213: 3281459535427840926
+    second: MUR ATEHO-3_532
+  - first:
+      213: 1228003843597982841
+    second: MUR ATEHO-3_533
+  - first:
+      213: 1674629750185650518
+    second: MUR ATEHO-3_534
+  - first:
+      213: -4255591959680889602
+    second: MUR ATEHO-3_535
+  - first:
+      213: -330405881961525011
+    second: MUR ATEHO-3_536
+  - first:
+      213: -5581973443108549408
+    second: MUR ATEHO-3_537
+  - first:
+      213: 4335430610316694381
+    second: MUR ATEHO-3_538
+  - first:
+      213: 4874666628308661798
+    second: MUR ATEHO-3_539
+  - first:
+      213: -6908966307713217002
+    second: MUR ATEHO-3_540
+  - first:
+      213: 3680669244345644760
+    second: MUR ATEHO-3_541
+  - first:
+      213: -267323819797903635
+    second: MUR ATEHO-3_542
+  - first:
+      213: -4243066940300196020
+    second: MUR ATEHO-3_543
+  - first:
+      213: -6220588210509011738
+    second: MUR ATEHO-3_544
+  - first:
+      213: -8904946114024788674
+    second: MUR ATEHO-3_545
+  - first:
+      213: 9024744234145525256
+    second: MUR ATEHO-3_546
+  - first:
+      213: -186325542082176257
+    second: MUR ATEHO-3_547
+  - first:
+      213: -7730124987296322661
+    second: MUR ATEHO-3_548
+  - first:
+      213: 377939084823310065
+    second: MUR ATEHO-3_549
+  - first:
+      213: -6119945783373958283
+    second: MUR ATEHO-3_550
+  - first:
+      213: -6323196303642491475
+    second: MUR ATEHO-3_551
+  - first:
+      213: 135843393572155363
+    second: MUR ATEHO-3_552
+  - first:
+      213: 8911579479733605498
+    second: MUR ATEHO-3_553
+  - first:
+      213: 1932987407547013848
+    second: MUR ATEHO-3_554
+  - first:
+      213: 1238453319591125538
+    second: MUR ATEHO-3_555
+  - first:
+      213: -2957524791306031311
+    second: MUR ATEHO-3_556
+  - first:
+      213: 1861099174915649571
+    second: MUR ATEHO-3_557
+  - first:
+      213: -8977332043960111452
+    second: MUR ATEHO-3_558
+  - first:
+      213: -1560359667568694632
+    second: MUR ATEHO-3_559
+  - first:
+      213: 3576152772953865588
+    second: MUR ATEHO-3_560
+  - first:
+      213: -5275720428662482026
+    second: MUR ATEHO-3_561
+  - first:
+      213: -3965950233230614351
+    second: MUR ATEHO-3_562
+  - first:
+      213: -8023116551830977061
+    second: MUR ATEHO-3_563
+  - first:
+      213: 2439049990619464704
+    second: MUR ATEHO-3_564
+  - first:
+      213: -3091945615788274539
+    second: MUR ATEHO-3_565
+  - first:
+      213: 1110227067073028993
+    second: MUR ATEHO-3_566
+  - first:
+      213: -8961212560224340616
+    second: MUR ATEHO-3_567
+  - first:
+      213: 272029936543794214
+    second: MUR ATEHO-3_568
+  - first:
+      213: 7936519888156970429
+    second: MUR ATEHO-3_569
+  - first:
+      213: 4044183800217762142
+    second: MUR ATEHO-3_570
+  - first:
+      213: 4051540540687569998
+    second: MUR ATEHO-3_571
+  - first:
+      213: 5768370953261528698
+    second: MUR ATEHO-3_572
+  - first:
+      213: -6110871597086340427
+    second: MUR ATEHO-3_573
+  - first:
+      213: 6975525797725307666
+    second: MUR ATEHO-3_574
+  - first:
+      213: -5797664150518739783
+    second: MUR ATEHO-3_575
+  - first:
+      213: -104563480429038854
+    second: MUR ATEHO-3_576
+  - first:
+      213: -7787625388580049959
+    second: MUR ATEHO-3_577
+  - first:
+      213: 1550912876609260340
+    second: MUR ATEHO-3_578
+  - first:
+      213: 2179746964898842051
+    second: MUR ATEHO-3_579
+  - first:
+      213: -3842017366600823417
+    second: MUR ATEHO-3_580
+  - first:
+      213: -1591538616852726792
+    second: MUR ATEHO-3_581
+  - first:
+      213: 4149408109613865055
+    second: MUR ATEHO-3_582
+  - first:
+      213: 6760665382407830353
+    second: MUR ATEHO-3_583
+  - first:
+      213: 6503315024757434422
+    second: MUR ATEHO-3_584
+  - first:
+      213: 2740157545323324984
+    second: MUR ATEHO-3_585
+  - first:
+      213: 7879973784077265215
+    second: MUR ATEHO-3_586
+  - first:
+      213: -3876385640745987882
+    second: MUR ATEHO-3_587
+  - first:
+      213: -576373299858714097
+    second: MUR ATEHO-3_588
+  - first:
+      213: 577491167655956569
+    second: MUR ATEHO-3_589
+  - first:
+      213: -9182673046169642529
+    second: MUR ATEHO-3_590
+  - first:
+      213: 4628885974781749829
+    second: MUR ATEHO-3_591
+  - first:
+      213: 4827625524956339957
+    second: MUR ATEHO-3_592
+  - first:
+      213: 6484690670142568238
+    second: MUR ATEHO-3_593
+  - first:
+      213: 2963127365299261706
+    second: MUR ATEHO-3_594
+  - first:
+      213: 6381865074594784530
+    second: MUR ATEHO-3_595
+  - first:
+      213: 1780472766815461883
+    second: MUR ATEHO-3_596
+  - first:
+      213: -2020059484752533258
+    second: MUR ATEHO-3_597
+  - first:
+      213: -6026967480706688927
+    second: MUR ATEHO-3_598
+  - first:
+      213: 7513953479527138503
+    second: MUR ATEHO-3_599
+  - first:
+      213: -7710757610520723362
+    second: MUR ATEHO-3_600
+  - first:
+      213: 3776779783344300534
+    second: MUR ATEHO-3_601
+  - first:
+      213: -4526530097195172184
+    second: MUR ATEHO-3_602
+  - first:
+      213: 1845298209207094661
+    second: MUR ATEHO-3_603
+  - first:
+      213: 5765876496597837105
+    second: MUR ATEHO-3_604
+  - first:
+      213: -3000682435625949804
+    second: MUR ATEHO-3_605
+  - first:
+      213: -2058871671723676777
+    second: MUR ATEHO-3_606
+  - first:
+      213: 743968751106682083
+    second: MUR ATEHO-3_607
+  - first:
+      213: -4414356687734031037
+    second: MUR ATEHO-3_608
+  - first:
+      213: 6994496938006998213
+    second: MUR ATEHO-3_609
+  - first:
+      213: -6063638215173053867
+    second: MUR ATEHO-3_610
+  - first:
+      213: 3033021903647570187
+    second: MUR ATEHO-3_611
+  - first:
+      213: -5711343579842204334
+    second: MUR ATEHO-3_612
+  - first:
+      213: 2878497347483414749
+    second: MUR ATEHO-3_613
+  - first:
+      213: 1171039002547583960
+    second: MUR ATEHO-3_614
+  - first:
+      213: -6280778806630617266
+    second: MUR ATEHO-3_615
+  - first:
+      213: 7530878483128074192
+    second: MUR ATEHO-3_616
+  - first:
+      213: -328899128246020591
+    second: MUR ATEHO-3_617
+  - first:
+      213: -7618263224751210083
+    second: MUR ATEHO-3_618
+  - first:
+      213: 1201238606635535020
+    second: MUR ATEHO-3_619
+  - first:
+      213: 7628537041831969059
+    second: MUR ATEHO-3_620
+  - first:
+      213: -363534669388391488
+    second: MUR ATEHO-3_621
+  - first:
+      213: -4478548426164899340
+    second: MUR ATEHO-3_622
+  - first:
+      213: 6981905673871379299
+    second: MUR ATEHO-3_623
+  - first:
+      213: 3908773691001673885
+    second: MUR ATEHO-3_624
+  - first:
+      213: 1620181320320681001
+    second: MUR ATEHO-3_625
+  - first:
+      213: -7267087037473156898
+    second: MUR ATEHO-3_626
+  - first:
+      213: -2837178905919747608
+    second: MUR ATEHO-3_627
+  - first:
+      213: -3781603753148136072
+    second: MUR ATEHO-3_628
+  - first:
+      213: 2249067222529587596
+    second: MUR ATEHO-3_629
+  - first:
+      213: 2241264753018441786
+    second: MUR ATEHO-3_630
+  - first:
+      213: -3192254596126336123
+    second: MUR ATEHO-3_631
+  - first:
+      213: 3869558988220837938
+    second: MUR ATEHO-3_632
+  - first:
+      213: 5876825184941034155
+    second: MUR ATEHO-3_633
+  - first:
+      213: 3569158649350414570
+    second: MUR ATEHO-3_634
+  - first:
+      213: -2471826799831603203
+    second: MUR ATEHO-3_635
+  - first:
+      213: 6019806004616905508
+    second: MUR ATEHO-3_636
+  - first:
+      213: 4235718485012484265
+    second: MUR ATEHO-3_637
+  - first:
+      213: 4246877124031259281
+    second: MUR ATEHO-3_638
+  - first:
+      213: -7236140715639354074
+    second: MUR ATEHO-3_639
+  - first:
+      213: 5400142693876417061
+    second: MUR ATEHO-3_640
+  - first:
+      213: 347859801167894666
+    second: MUR ATEHO-3_641
+  - first:
+      213: -7396889807155872016
+    second: MUR ATEHO-3_642
+  - first:
+      213: -5751525666132220321
+    second: MUR ATEHO-3_643
+  - first:
+      213: 4662475542527028009
+    second: MUR ATEHO-3_644
+  - first:
+      213: -4830284397211497267
+    second: MUR ATEHO-3_645
+  - first:
+      213: -1787017060636465606
+    second: MUR ATEHO-3_646
+  - first:
+      213: 4958386863423824284
+    second: MUR ATEHO-3_647
+  - first:
+      213: -3878441010355414630
+    second: MUR ATEHO-3_648
+  - first:
+      213: 1466482032785103903
+    second: MUR ATEHO-3_649
+  - first:
+      213: 8400578703714122407
+    second: MUR ATEHO-3_650
+  - first:
+      213: -5184691237635982977
+    second: MUR ATEHO-3_651
+  - first:
+      213: -8305469857158570635
+    second: MUR ATEHO-3_652
+  - first:
+      213: 8178578878170410420
+    second: MUR ATEHO-3_653
+  - first:
+      213: -4554098025337818973
+    second: MUR ATEHO-3_654
+  - first:
+      213: -8322880924449475445
+    second: MUR ATEHO-3_655
+  - first:
+      213: 2548524715022742787
+    second: MUR ATEHO-3_656
+  - first:
+      213: 7180939336690371234
+    second: MUR ATEHO-3_657
+  - first:
+      213: -3151066908698070030
+    second: MUR ATEHO-3_658
+  - first:
+      213: 152843689346509375
+    second: MUR ATEHO-3_659
+  - first:
+      213: 6122339763952435531
+    second: MUR ATEHO-3_660
+  - first:
+      213: -2321499513414603323
+    second: MUR ATEHO-3_661
+  - first:
+      213: 7853350226678270826
+    second: MUR ATEHO-3_662
+  - first:
+      213: -8700948255207580739
+    second: MUR ATEHO-3_663
+  - first:
+      213: -5940892795200624374
+    second: MUR ATEHO-3_664
+  - first:
+      213: 9127610842037370596
+    second: MUR ATEHO-3_665
+  - first:
+      213: -1869047514488582704
+    second: MUR ATEHO-3_666
+  - first:
+      213: 9053275351460187744
+    second: MUR ATEHO-3_667
+  - first:
+      213: -5231392395449165407
+    second: MUR ATEHO-3_668
+  - first:
+      213: -6477205483765648465
+    second: MUR ATEHO-3_669
+  - first:
+      213: -6020047891254543016
+    second: MUR ATEHO-3_670
+  - first:
+      213: -7300376780074342697
+    second: MUR ATEHO-3_671
+  - first:
+      213: -5733323070316233858
+    second: MUR ATEHO-3_672
+  - first:
+      213: 8655020608063093740
+    second: MUR ATEHO-3_673
+  - first:
+      213: 2189098820161322840
+    second: MUR ATEHO-3_674
+  - first:
+      213: 3976551232950974437
+    second: MUR ATEHO-3_675
+  - first:
+      213: -5822935665613929807
+    second: MUR ATEHO-3_676
+  - first:
+      213: -546051211289704217
+    second: MUR ATEHO-3_677
+  - first:
+      213: 5975460855309547565
+    second: MUR ATEHO-3_678
+  - first:
+      213: 8513878644934379850
+    second: MUR ATEHO-3_679
+  - first:
+      213: -1460438987010379726
+    second: MUR ATEHO-3_680
+  - first:
+      213: 3350400524450985245
+    second: MUR ATEHO-3_681
+  - first:
+      213: -6242502600334629689
+    second: MUR ATEHO-3_682
+  - first:
+      213: -147011912901505720
+    second: MUR ATEHO-3_683
+  - first:
+      213: 8058175904822575929
+    second: MUR ATEHO-3_684
+  - first:
+      213: 6773219398091110555
+    second: MUR ATEHO-3_685
+  - first:
+      213: -5842283139867929236
+    second: MUR ATEHO-3_686
+  - first:
+      213: 9199790271725077575
+    second: MUR ATEHO-3_687
+  - first:
+      213: 1723064102201147449
+    second: MUR ATEHO-3_688
+  - first:
+      213: -3736232638324186872
+    second: MUR ATEHO-3_689
+  - first:
+      213: -9026176842056541323
+    second: MUR ATEHO-3_690
+  - first:
+      213: -3091935646860685666
+    second: MUR ATEHO-3_691
+  - first:
+      213: -4355556312782879987
+    second: MUR ATEHO-3_692
+  - first:
+      213: -8864443832955689027
+    second: MUR ATEHO-3_693
+  - first:
+      213: -5248560236748680893
+    second: MUR ATEHO-3_694
+  - first:
+      213: -7091604326550739501
+    second: MUR ATEHO-3_695
+  - first:
+      213: -5695033255641682848
+    second: MUR ATEHO-3_696
+  - first:
+      213: -527684036493286683
+    second: MUR ATEHO-3_697
+  - first:
+      213: 4743707637141703704
+    second: MUR ATEHO-3_698
+  - first:
+      213: 8552688498892632696
+    second: MUR ATEHO-3_699
+  - first:
+      213: 2335375122195574135
+    second: MUR ATEHO-3_700
+  - first:
+      213: 381308077488816989
+    second: MUR ATEHO-3_701
+  - first:
+      213: 4091164403323857141
+    second: MUR ATEHO-3_702
+  - first:
+      213: -1874323105310980449
+    second: MUR ATEHO-3_703
+  - first:
+      213: -1817329401126674261
+    second: MUR ATEHO-3_704
+  - first:
+      213: -4766148916344710575
+    second: MUR ATEHO-3_705
+  - first:
+      213: 4883695797060274190
+    second: MUR ATEHO-3_706
+  - first:
+      213: 608126256240162072
+    second: MUR ATEHO-3_707
+  - first:
+      213: 6966427235976441124
+    second: MUR ATEHO-3_708
+  - first:
+      213: -2031032889271293214
+    second: MUR ATEHO-3_709
+  - first:
+      213: -336487039987331061
+    second: MUR ATEHO-3_710
+  - first:
+      213: -8899663565185930751
+    second: MUR ATEHO-3_711
+  - first:
+      213: 4310756955903653964
+    second: MUR ATEHO-3_712
+  - first:
+      213: 8253617419363611177
+    second: MUR ATEHO-3_713
+  - first:
+      213: -7007467118597985073
+    second: MUR ATEHO-3_714
+  - first:
+      213: -2356241710746422851
+    second: MUR ATEHO-3_715
+  - first:
+      213: -8123646682087987537
+    second: MUR ATEHO-3_716
+  - first:
+      213: -6583494929789536093
+    second: MUR ATEHO-3_717
+  - first:
+      213: -804202443988059421
+    second: MUR ATEHO-3_718
+  - first:
+      213: -7800950254720106513
+    second: MUR ATEHO-3_719
+  - first:
+      213: 7086065947300931319
+    second: MUR ATEHO-3_720
+  - first:
+      213: -8110481063383878451
+    second: MUR ATEHO-3_721
+  - first:
+      213: -4332671143001254164
+    second: MUR ATEHO-3_722
+  - first:
+      213: -889200665369660482
+    second: MUR ATEHO-3_723
+  - first:
+      213: -1127780753327579000
+    second: MUR ATEHO-3_724
+  - first:
+      213: -5155739082663861634
+    second: MUR ATEHO-3_725
+  - first:
+      213: 3009800403306776280
+    second: MUR ATEHO-3_726
+  - first:
+      213: -5285561031922170165
+    second: MUR ATEHO-3_727
+  - first:
+      213: -691795213133648835
+    second: MUR ATEHO-3_728
+  - first:
+      213: -3899246026191141691
+    second: MUR ATEHO-3_729
+  - first:
+      213: 5120820113684302605
+    second: MUR ATEHO-3_730
+  - first:
+      213: 4564514133805307924
+    second: MUR ATEHO-3_731
+  - first:
+      213: 2160071418589548091
+    second: MUR ATEHO-3_732
+  - first:
+      213: -8826498668798764185
+    second: MUR ATEHO-3_733
+  - first:
+      213: -4198843894002854552
+    second: MUR ATEHO-3_734
+  - first:
+      213: 1122552392273748920
+    second: MUR ATEHO-3_735
+  - first:
+      213: -1430510905544127486
+    second: MUR ATEHO-3_736
+  - first:
+      213: -951185641391825571
+    second: MUR ATEHO-3_737
+  - first:
+      213: 4495963755558877147
+    second: MUR ATEHO-3_738
+  - first:
+      213: -8187531479742346526
+    second: MUR ATEHO-3_739
+  - first:
+      213: 6816807312994160032
+    second: MUR ATEHO-3_740
+  - first:
+      213: -7498521890799402642
+    second: MUR ATEHO-3_741
+  - first:
+      213: -3522833296700308680
+    second: MUR ATEHO-3_742
+  - first:
+      213: 3516721078435946289
+    second: MUR ATEHO-3_743
+  - first:
+      213: -3669146770998750327
+    second: MUR ATEHO-3_744
+  - first:
+      213: -673050318351366758
+    second: MUR ATEHO-3_745
+  - first:
+      213: 290515684912758516
+    second: MUR ATEHO-3_746
+  - first:
+      213: -7115180629932418192
+    second: MUR ATEHO-3_747
+  - first:
+      213: 3428110519742472742
+    second: MUR ATEHO-3_748
+  - first:
+      213: -6218179775528791659
+    second: MUR ATEHO-3_749
+  - first:
+      213: 2972591569302179192
+    second: MUR ATEHO-3_750
+  - first:
+      213: -6309293873510555552
+    second: MUR ATEHO-3_751
+  - first:
+      213: -2222896223152600770
+    second: MUR ATEHO-3_752
+  - first:
+      213: 4757099533113619012
+    second: MUR ATEHO-3_753
+  - first:
+      213: -5177225785052297685
+    second: MUR ATEHO-3_754
+  - first:
+      213: -8662150486767540059
+    second: MUR ATEHO-3_755
+  - first:
+      213: 5274249187985314018
+    second: MUR ATEHO-3_756
+  - first:
+      213: 1984597325643167588
+    second: MUR ATEHO-3_757
+  - first:
+      213: -7177461126395523768
+    second: MUR ATEHO-3_758
+  - first:
+      213: 411639355434292719
+    second: MUR ATEHO-3_759
+  - first:
+      213: -9202606490805172757
+    second: MUR ATEHO-3_760
+  - first:
+      213: -759282413754954318
+    second: MUR ATEHO-3_761
+  - first:
+      213: -8154538224049054540
+    second: MUR ATEHO-3_762
+  - first:
+      213: 5824935202358667712
+    second: MUR ATEHO-3_763
+  - first:
+      213: 2963341999184597233
+    second: MUR ATEHO-3_764
+  - first:
+      213: -8103064831617395917
+    second: MUR ATEHO-3_765
+  - first:
+      213: 7680958934053807813
+    second: MUR ATEHO-3_766
+  - first:
+      213: 1521978058620999545
+    second: MUR ATEHO-3_767
+  - first:
+      213: 3387806299563291182
+    second: MUR ATEHO-3_768
+  - first:
+      213: 2723889598390589279
+    second: MUR ATEHO-3_769
+  - first:
+      213: -1995859638492951864
+    second: MUR ATEHO-3_770
+  - first:
+      213: 1468181352317395386
+    second: MUR ATEHO-3_771
+  - first:
+      213: 8034945084483411096
+    second: MUR ATEHO-3_772
+  - first:
+      213: 5148534813523653763
+    second: MUR ATEHO-3_773
+  - first:
+      213: 8459194021633612906
+    second: MUR ATEHO-3_774
+  - first:
+      213: -851311130654171085
+    second: MUR ATEHO-3_775
+  - first:
+      213: 2933157392157326643
+    second: MUR ATEHO-3_776
+  - first:
+      213: -589518865000719876
+    second: MUR ATEHO-3_777
+  - first:
+      213: 1366401027885156603
+    second: MUR ATEHO-3_778
+  - first:
+      213: 5654154069349315438
+    second: MUR ATEHO-3_779
+  - first:
+      213: -8436962926835529987
+    second: MUR ATEHO-3_780
+  - first:
+      213: 2709123979861085789
+    second: MUR ATEHO-3_781
+  - first:
+      213: -6854827172781209176
+    second: MUR ATEHO-3_782
+  - first:
+      213: -7717724485000178060
+    second: MUR ATEHO-3_783
+  - first:
+      213: -5430701645131398372
+    second: MUR ATEHO-3_784
+  - first:
+      213: 4424683568463776779
+    second: MUR ATEHO-3_785
+  - first:
+      213: -4182615169717974204
+    second: MUR ATEHO-3_786
+  - first:
+      213: -1473815604787159773
+    second: MUR ATEHO-3_787
+  - first:
+      213: -72146378569202375
+    second: MUR ATEHO-3_788
+  - first:
+      213: -8559921169791745482
+    second: MUR ATEHO-3_789
+  - first:
+      213: -1839117569228199319
+    second: MUR ATEHO-3_790
+  - first:
+      213: 3331392196169601416
+    second: MUR ATEHO-3_791
+  - first:
+      213: -1243560694224631621
+    second: MUR ATEHO-3_792
+  - first:
+      213: -1782726444803780525
+    second: MUR ATEHO-3_793
+  - first:
+      213: 6641598444114574168
+    second: MUR ATEHO-3_794
+  - first:
+      213: -3979230764811624593
+    second: MUR ATEHO-3_795
+  - first:
+      213: 3528222272598258291
+    second: MUR ATEHO-3_796
+  - first:
+      213: -8968890693983146291
+    second: MUR ATEHO-3_797
+  - first:
+      213: -4050176882517169426
+    second: MUR ATEHO-3_798
+  - first:
+      213: -8466637328712427559
+    second: MUR ATEHO-3_799
+  - first:
+      213: 8296014874588276691
+    second: MUR ATEHO-3_800
+  - first:
+      213: -2125873058737579284
+    second: MUR ATEHO-3_801
+  - first:
+      213: -9075984456493849486
+    second: MUR ATEHO-3_802
+  - first:
+      213: 3757460820907396614
+    second: MUR ATEHO-3_803
+  - first:
+      213: -3540432521166743940
+    second: MUR ATEHO-3_804
+  - first:
+      213: 1529068467390173129
+    second: MUR ATEHO-3_805
+  - first:
+      213: -6349672551728856761
+    second: MUR ATEHO-3_806
+  - first:
+      213: 2400344067858006960
+    second: MUR ATEHO-3_807
+  - first:
+      213: -5647145510677147103
+    second: MUR ATEHO-3_808
+  - first:
+      213: 1966840390163225939
+    second: MUR ATEHO-3_809
+  - first:
+      213: 2902556268988907524
+    second: MUR ATEHO-3_810
+  - first:
+      213: 3710687056440228502
+    second: MUR ATEHO-3_811
+  - first:
+      213: 1909460530259706034
+    second: MUR ATEHO-3_812
+  - first:
+      213: 5560736997312509069
+    second: MUR ATEHO-3_813
+  - first:
+      213: -1156440815940752087
+    second: MUR ATEHO-3_814
+  - first:
+      213: -3291669759638369412
+    second: MUR ATEHO-3_815
+  - first:
+      213: 6552745819484461365
+    second: MUR ATEHO-3_816
+  - first:
+      213: 1461741181222979926
+    second: MUR ATEHO-3_817
+  - first:
+      213: -3029442547442102026
+    second: MUR ATEHO-3_818
+  - first:
+      213: 3093113592003154714
+    second: MUR ATEHO-3_819
+  - first:
+      213: -1883878317327609470
+    second: MUR ATEHO-3_820
+  - first:
+      213: 8467022630357284755
+    second: MUR ATEHO-3_821
+  - first:
+      213: 3039799037218091863
+    second: MUR ATEHO-3_822
+  - first:
+      213: 1031527348959551287
+    second: MUR ATEHO-3_823
+  - first:
+      213: -5171668921617298738
+    second: MUR ATEHO-3_824
+  - first:
+      213: -4456691109945750748
+    second: MUR ATEHO-3_825
+  - first:
+      213: 8795221491482895823
+    second: MUR ATEHO-3_826
+  - first:
+      213: 6425041958968893547
+    second: MUR ATEHO-3_827
+  - first:
+      213: -6468077023073239746
+    second: MUR ATEHO-3_828
+  - first:
+      213: -816960090098614013
+    second: MUR ATEHO-3_829
+  - first:
+      213: 3734115863563344960
+    second: MUR ATEHO-3_830
+  - first:
+      213: -7803998912562699365
+    second: MUR ATEHO-3_831
+  - first:
+      213: -8593221372352345164
+    second: MUR ATEHO-3_832
+  - first:
+      213: -4139001337357340063
+    second: MUR ATEHO-3_833
+  - first:
+      213: -2859731881220992369
+    second: MUR ATEHO-3_834
+  - first:
+      213: 6288933753834334316
+    second: MUR ATEHO-3_835
+  - first:
+      213: -2254002570134712020
+    second: MUR ATEHO-3_836
+  - first:
+      213: 3859514840852140450
+    second: MUR ATEHO-3_837
+  - first:
+      213: -5903279161534287919
+    second: MUR ATEHO-3_838
+  - first:
+      213: 3171359935083018371
+    second: MUR ATEHO-3_839
+  - first:
+      213: -5872920417938206658
+    second: MUR ATEHO-3_840
+  - first:
+      213: 1760349080084142739
+    second: MUR ATEHO-3_841
+  - first:
+      213: -1528237067751733137
+    second: MUR ATEHO-3_842
+  - first:
+      213: 3305213833147834794
+    second: MUR ATEHO-3_843
+  - first:
+      213: -1675643911964918818
+    second: MUR ATEHO-3_844
+  - first:
+      213: 3074531833830013949
+    second: MUR ATEHO-3_845
+  - first:
+      213: 1503927647260538218
+    second: MUR ATEHO-3_846
+  - first:
+      213: -2701593788431728714
+    second: MUR ATEHO-3_847
+  - first:
+      213: 7588588260719787746
+    second: MUR ATEHO-3_848
+  - first:
+      213: -8021715643297163793
+    second: MUR ATEHO-3_849
+  - first:
+      213: 7077403524254572223
+    second: MUR ATEHO-3_850
+  - first:
+      213: 3886611605629728546
+    second: MUR ATEHO-3_851
+  - first:
+      213: -2052372447427136170
+    second: MUR ATEHO-3_852
+  - first:
+      213: -4680317350427595325
+    second: MUR ATEHO-3_853
+  - first:
+      213: -3128829340734713115
+    second: MUR ATEHO-3_854
+  - first:
+      213: 6177865762780663047
+    second: MUR ATEHO-3_855
+  - first:
+      213: 4267705755265006090
+    second: MUR ATEHO-3_856
+  - first:
+      213: -2210192875358026416
+    second: MUR ATEHO-3_857
+  - first:
+      213: 5988358940134146391
+    second: MUR ATEHO-3_858
+  - first:
+      213: -3547446429085642609
+    second: MUR ATEHO-3_859
+  - first:
+      213: 766604403237474568
+    second: MUR ATEHO-3_860
+  - first:
+      213: 5773759191136696891
+    second: MUR ATEHO-3_861
+  - first:
+      213: -9194142945682668517
+    second: MUR ATEHO-3_862
+  - first:
+      213: 6158703269376068676
+    second: MUR ATEHO-3_863
+  - first:
+      213: -70400813975608805
+    second: MUR ATEHO-3_864
+  - first:
+      213: 5984208902694173429
+    second: MUR ATEHO-3_865
+  - first:
+      213: 4835050016031932539
+    second: MUR ATEHO-3_866
+  - first:
+      213: 955834796011856561
+    second: MUR ATEHO-3_867
+  - first:
+      213: -3385929922150877767
+    second: MUR ATEHO-3_868
+  - first:
+      213: -979250600142931781
+    second: MUR ATEHO-3_869
+  - first:
+      213: 3900312774007349317
+    second: MUR ATEHO-3_870
+  - first:
+      213: -4427590134077978991
+    second: MUR ATEHO-3_871
+  - first:
+      213: -7187633521278352822
+    second: MUR ATEHO-3_872
+  - first:
+      213: 579041570517425095
+    second: MUR ATEHO-3_873
+  - first:
+      213: -4327365154752591536
+    second: MUR ATEHO-3_874
+  - first:
+      213: 7512221250885992995
+    second: MUR ATEHO-3_875
+  - first:
+      213: 9057766509493171797
+    second: MUR ATEHO-3_876
+  - first:
+      213: -1310528178450995400
+    second: MUR ATEHO-3_877
+  - first:
+      213: 1766580492503054653
+    second: MUR ATEHO-3_878
+  - first:
+      213: 137695656879183692
+    second: MUR ATEHO-3_879
+  - first:
+      213: 943223817725796630
+    second: MUR ATEHO-3_880
+  - first:
+      213: -7213226484295722811
+    second: MUR ATEHO-3_881
+  - first:
+      213: -5278533438331655570
+    second: MUR ATEHO-3_882
+  - first:
+      213: -2083418629281589754
+    second: MUR ATEHO-3_883
+  - first:
+      213: -3303652691738704446
+    second: MUR ATEHO-3_884
+  - first:
+      213: -4328675084289469596
+    second: MUR ATEHO-3_885
+  - first:
+      213: 2561669703715929319
+    second: MUR ATEHO-3_886
+  - first:
+      213: -1307713479887816007
+    second: MUR ATEHO-3_887
+  - first:
+      213: -7736098392232570008
+    second: MUR ATEHO-3_888
+  - first:
+      213: 123992488513950223
+    second: MUR ATEHO-3_889
+  - first:
+      213: -3498395250565020376
+    second: MUR ATEHO-3_890
+  - first:
+      213: -2985031634427416732
+    second: MUR ATEHO-3_891
+  - first:
+      213: -2950655028108574762
+    second: MUR ATEHO-3_892
+  - first:
+      213: 7584133283825437981
+    second: MUR ATEHO-3_893
+  - first:
+      213: 8013825374073123497
+    second: MUR ATEHO-3_894
+  - first:
+      213: -1791520789167830922
+    second: MUR ATEHO-3_895
+  - first:
+      213: -2161441742702761304
+    second: MUR ATEHO-3_896
+  - first:
+      213: -943563488990010379
+    second: MUR ATEHO-3_897
+  - first:
+      213: 1624546669410419873
+    second: MUR ATEHO-3_898
+  - first:
+      213: 3480108739025367844
+    second: MUR ATEHO-3_899
+  - first:
+      213: 1521258084453691307
+    second: MUR ATEHO-3_900
+  - first:
+      213: -6229589677205387677
+    second: MUR ATEHO-3_901
+  - first:
+      213: -801695305463534204
+    second: MUR ATEHO-3_902
+  - first:
+      213: -4442598386561484023
+    second: MUR ATEHO-3_903
+  - first:
+      213: -2653254737603296547
+    second: MUR ATEHO-3_904
+  - first:
+      213: -4074186966314244199
+    second: MUR ATEHO-3_905
+  - first:
+      213: -7589608081633129683
+    second: MUR ATEHO-3_906
+  - first:
+      213: -8547691506242803204
+    second: MUR ATEHO-3_907
+  - first:
+      213: 7647697834489890695
+    second: MUR ATEHO-3_908
+  - first:
+      213: 196840907901997748
+    second: MUR ATEHO-3_909
+  - first:
+      213: -6031374448965193199
+    second: MUR ATEHO-3_910
+  - first:
+      213: -971335152059032475
+    second: MUR ATEHO-3_911
+  - first:
+      213: -4589604805824436069
+    second: MUR ATEHO-3_912
+  - first:
+      213: 7039025436934783900
+    second: MUR ATEHO-3_913
+  - first:
+      213: 5449584509540712324
+    second: MUR ATEHO-3_914
+  - first:
+      213: 1555685722517369944
+    second: MUR ATEHO-3_915
+  - first:
+      213: -2508458981648067137
+    second: MUR ATEHO-3_916
+  - first:
+      213: -5498881440052646415
+    second: MUR ATEHO-3_917
+  - first:
+      213: 1072779630861693873
+    second: MUR ATEHO-3_918
+  - first:
+      213: -2427123103804111471
+    second: MUR ATEHO-3_919
+  - first:
+      213: -8924717343828556166
+    second: MUR ATEHO-3_920
+  - first:
+      213: -3096305726340588425
+    second: MUR ATEHO-3_921
+  - first:
+      213: 1206724067964129881
+    second: MUR ATEHO-3_922
+  - first:
+      213: -4896346704623088162
+    second: MUR ATEHO-3_923
+  - first:
+      213: 6559096535056068662
+    second: MUR ATEHO-3_924
+  - first:
+      213: 463261434701401372
+    second: MUR ATEHO-3_925
+  - first:
+      213: -3097706656000511422
+    second: MUR ATEHO-3_926
+  - first:
+      213: -7498878110319247169
+    second: MUR ATEHO-3_927
+  - first:
+      213: -3480384963292474917
+    second: MUR ATEHO-3_928
+  - first:
+      213: -481566384999822747
+    second: MUR ATEHO-3_929
+  - first:
+      213: 6317572920206514483
+    second: MUR ATEHO-3_930
+  - first:
+      213: -8442118797743172851
+    second: MUR ATEHO-3_931
+  - first:
+      213: -3561858784468924200
+    second: MUR ATEHO-3_932
+  - first:
+      213: 4843712731793742951
+    second: MUR ATEHO-3_933
+  - first:
+      213: -1382827377756871219
+    second: MUR ATEHO-3_934
+  - first:
+      213: -3728665142401326378
+    second: MUR ATEHO-3_935
+  - first:
+      213: 4545595244038023670
+    second: MUR ATEHO-3_936
+  - first:
+      213: 95689369381603835
+    second: MUR ATEHO-3_937
+  - first:
+      213: -9022651893391421017
+    second: MUR ATEHO-3_938
+  - first:
+      213: 8512853443081371789
+    second: MUR ATEHO-3_939
+  - first:
+      213: 4576479317069782822
+    second: MUR ATEHO-3_940
+  - first:
+      213: -4869361609174491780
+    second: MUR ATEHO-3_941
+  - first:
+      213: -867369213493029326
+    second: MUR ATEHO-3_942
+  - first:
+      213: 1034503027988632090
+    second: MUR ATEHO-3_943
+  - first:
+      213: -9146552025768483138
+    second: MUR ATEHO-3_944
+  - first:
+      213: -5895528177240745086
+    second: MUR ATEHO-3_945
+  - first:
+      213: 256683870856631754
+    second: MUR ATEHO-3_946
+  - first:
+      213: -5306685455046065762
+    second: MUR ATEHO-3_947
+  - first:
+      213: -6658570343934908611
+    second: MUR ATEHO-3_948
+  - first:
+      213: -6365466891145432275
+    second: MUR ATEHO-3_949
+  - first:
+      213: -5583325265315028366
+    second: MUR ATEHO-3_950
+  - first:
+      213: -687035056012869111
+    second: MUR ATEHO-3_951
+  - first:
+      213: -1314275499784912688
+    second: MUR ATEHO-3_952
+  - first:
+      213: 187899619513857870
+    second: MUR ATEHO-3_953
+  - first:
+      213: -5778997693646363112
+    second: MUR ATEHO-3_954
+  - first:
+      213: -5218911552552813792
+    second: MUR ATEHO-3_955
+  - first:
+      213: 5638595012145567481
+    second: MUR ATEHO-3_956
+  - first:
+      213: 2492081999123313456
+    second: MUR ATEHO-3_957
+  - first:
+      213: 4930965479129913986
+    second: MUR ATEHO-3_958
+  - first:
+      213: 2845313403897601865
+    second: MUR ATEHO-3_959
+  - first:
+      213: -5202845657396760425
+    second: MUR ATEHO-3_960
+  - first:
+      213: 1862751233186535425
+    second: MUR ATEHO-3_961
+  - first:
+      213: 6201748658460233254
+    second: MUR ATEHO-3_962
+  - first:
+      213: -7568743738570295979
+    second: MUR ATEHO-3_963
+  - first:
+      213: 3375411504494124234
+    second: MUR ATEHO-3_964
+  - first:
+      213: -5211331313152636446
+    second: MUR ATEHO-3_965
+  - first:
+      213: -6302128975056342723
+    second: MUR ATEHO-3_966
+  - first:
+      213: 8947108790848828409
+    second: MUR ATEHO-3_967
+  - first:
+      213: 4111396951774390221
+    second: MUR ATEHO-3_968
+  - first:
+      213: 6793855333815544255
+    second: MUR ATEHO-3_969
+  - first:
+      213: -2281875857962296483
+    second: MUR ATEHO-3_970
+  - first:
+      213: 3981568762549670205
+    second: MUR ATEHO-3_971
+  - first:
+      213: -923198321000496274
+    second: MUR ATEHO-3_972
+  - first:
+      213: 19053138771894422
+    second: MUR ATEHO-3_973
+  - first:
+      213: -6365670946773512642
+    second: MUR ATEHO-3_974
+  - first:
+      213: -2081228777624004754
+    second: MUR ATEHO-3_975
+  - first:
+      213: -1770199563395539589
+    second: MUR ATEHO-3_976
+  - first:
+      213: -3880828930333518553
+    second: MUR ATEHO-3_977
+  - first:
+      213: -7021624080353240473
+    second: MUR ATEHO-3_978
+  - first:
+      213: -5629357955543866475
+    second: MUR ATEHO-3_979
+  - first:
+      213: -1968356117141017877
+    second: MUR ATEHO-3_980
+  - first:
+      213: 7861752647006259421
+    second: MUR ATEHO-3_981
+  - first:
+      213: 4967877171780352870
+    second: MUR ATEHO-3_982
+  - first:
+      213: 6914655073095834502
+    second: MUR ATEHO-3_983
+  - first:
+      213: -3261533484405545394
+    second: MUR ATEHO-3_984
+  - first:
+      213: -4599845586603038460
+    second: MUR ATEHO-3_985
+  - first:
+      213: -1527676473035712122
+    second: MUR ATEHO-3_986
+  - first:
+      213: 4066317858068753177
+    second: MUR ATEHO-3_987
+  - first:
+      213: 7036723673189150801
+    second: MUR ATEHO-3_988
+  - first:
+      213: 937640726945415345
+    second: MUR ATEHO-3_989
+  - first:
+      213: -2079072004950892162
+    second: MUR ATEHO-3_990
+  - first:
+      213: -8833157659379613639
+    second: MUR ATEHO-3_991
+  - first:
+      213: 464587194415404674
+    second: MUR ATEHO-3_992
+  - first:
+      213: 2157048396186298014
+    second: MUR ATEHO-3_993
+  - first:
+      213: 4652892233823808383
+    second: MUR ATEHO-3_994
+  - first:
+      213: -616667486820136003
+    second: MUR ATEHO-3_995
+  - first:
+      213: 4314403624861348002
+    second: MUR ATEHO-3_996
+  - first:
+      213: 1606250868816627185
+    second: MUR ATEHO-3_997
+  - first:
+      213: -4371818208678999181
+    second: MUR ATEHO-3_998
+  - first:
+      213: 5174894492513083525
+    second: MUR ATEHO-3_999
+  - first:
+      213: 4417268765257878709
+    second: MUR ATEHO-3_1000
+  - first:
+      213: -775283352466460606
+    second: MUR ATEHO-3_1001
+  - first:
+      213: -3675249239229152145
+    second: MUR ATEHO-3_1002
+  - first:
+      213: -1136977419815273193
+    second: MUR ATEHO-3_1003
+  - first:
+      213: -1421529361063295783
+    second: MUR ATEHO-3_1004
+  - first:
+      213: 3594446922809256389
+    second: MUR ATEHO-3_1005
+  - first:
+      213: 8029207212012247658
+    second: MUR ATEHO-3_1006
+  - first:
+      213: -395790349305120239
+    second: MUR ATEHO-3_1007
+  - first:
+      213: -7338383726471191443
+    second: MUR ATEHO-3_1008
+  - first:
+      213: 4550763974253131563
+    second: MUR ATEHO-3_1009
+  - first:
+      213: -5191257034836667201
+    second: MUR ATEHO-3_1010
+  - first:
+      213: -570828212163483030
+    second: MUR ATEHO-3_1011
+  - first:
+      213: -1384945287374534160
+    second: MUR ATEHO-3_1012
+  - first:
+      213: -6134834840689089646
+    second: MUR ATEHO-3_1013
+  - first:
+      213: 5773976067461824194
+    second: MUR ATEHO-3_1014
+  - first:
+      213: -3273906402933642951
+    second: MUR ATEHO-3_1015
+  - first:
+      213: 5682541899792527290
+    second: MUR ATEHO-3_1016
+  - first:
+      213: -2930188430555485154
+    second: MUR ATEHO-3_1017
+  - first:
+      213: 3266348564277742273
+    second: MUR ATEHO-3_1018
+  - first:
+      213: -8624307132471475643
+    second: MUR ATEHO-3_1019
+  - first:
+      213: 828030471091484416
+    second: MUR ATEHO-3_1020
+  - first:
+      213: 237861369481947894
+    second: MUR ATEHO-3_1021
+  - first:
+      213: 5179886842224990569
+    second: MUR ATEHO-3_1022
+  - first:
+      213: 4520179726461953193
+    second: MUR ATEHO-3_1023
+  - first:
+      213: -1231043993264782244
+    second: MUR ATEHO-3_1024
+  - first:
+      213: 3867208939308127505
+    second: MUR ATEHO-3_1025
+  - first:
+      213: -4514498500445416249
+    second: MUR ATEHO-3_1026
+  - first:
+      213: -4984816045870105356
+    second: MUR ATEHO-3_1027
+  - first:
+      213: 2447913455298060753
+    second: MUR ATEHO-3_1028
+  - first:
+      213: -6579992977546762719
+    second: MUR ATEHO-3_1029
+  - first:
+      213: 2380726583658574402
+    second: MUR ATEHO-3_1030
+  - first:
+      213: -7217412873995358204
+    second: MUR ATEHO-3_1031
+  - first:
+      213: -8141949261539166576
+    second: MUR ATEHO-3_1032
+  - first:
+      213: -1470828889474112500
+    second: MUR ATEHO-3_1033
+  - first:
+      213: -6690668671025707640
+    second: MUR ATEHO-3_1034
+  - first:
+      213: 3204871942909198457
+    second: MUR ATEHO-3_1035
+  - first:
+      213: 6348651928246715551
+    second: MUR ATEHO-3_1036
+  - first:
+      213: -7104049846951534257
+    second: MUR ATEHO-3_1037
+  - first:
+      213: 7787072965656409081
+    second: MUR ATEHO-3_1038
+  - first:
+      213: -3391292044383048608
+    second: MUR ATEHO-3_1039
+  - first:
+      213: 2010691825648732603
+    second: MUR ATEHO-3_1040
+  - first:
+      213: -888324026026479109
+    second: MUR ATEHO-3_1041
+  - first:
+      213: -7078463227588874991
+    second: MUR ATEHO-3_1042
+  - first:
+      213: 8118645228066015155
+    second: MUR ATEHO-3_1043
+  - first:
+      213: -8483381001570753088
+    second: MUR ATEHO-3_1044
+  - first:
+      213: 2697046405330382371
+    second: MUR ATEHO-3_1045
+  - first:
+      213: 4985212903260960514
+    second: MUR ATEHO-3_1046
+  - first:
+      213: -8404885603238193689
+    second: MUR ATEHO-3_1047
+  - first:
+      213: -4688652153308952921
+    second: MUR ATEHO-3_1048
+  - first:
+      213: 4808883627962504124
+    second: MUR ATEHO-3_1049
+  - first:
+      213: 6518890515449136588
+    second: MUR ATEHO-3_1050
+  - first:
+      213: 5092804074549001506
+    second: MUR ATEHO-3_1051
+  - first:
+      213: 110748368080590031
+    second: MUR ATEHO-3_1052
+  - first:
+      213: -4776043417260966022
+    second: MUR ATEHO-3_1053
+  - first:
+      213: 347311357253587023
+    second: MUR ATEHO-3_1054
+  - first:
+      213: 2736252142231984231
+    second: MUR ATEHO-3_1055
+  - first:
+      213: -3489133651146467926
+    second: MUR ATEHO-3_1056
+  - first:
+      213: 1489349994290004646
+    second: MUR ATEHO-3_1057
+  - first:
+      213: 4591029332743072276
+    second: MUR ATEHO-3_1058
+  - first:
+      213: 3608567956493525218
+    second: MUR ATEHO-3_1059
+  - first:
+      213: -7613315291967894083
+    second: MUR ATEHO-3_1060
+  - first:
+      213: 3379695685389002786
+    second: MUR ATEHO-3_1061
+  - first:
+      213: -1337115022806330905
+    second: MUR ATEHO-3_1062
+  - first:
+      213: 6495283296514120660
+    second: MUR ATEHO-3_1063
+  - first:
+      213: -5670563651326747494
+    second: MUR ATEHO-3_1064
+  - first:
+      213: -3149238636030378270
+    second: MUR ATEHO-3_1065
+  - first:
+      213: -8223602438814148501
+    second: MUR ATEHO-3_1066
+  - first:
+      213: 1516439651684515715
+    second: MUR ATEHO-3_1067
+  - first:
+      213: -2436285297213559731
+    second: MUR ATEHO-3_1068
+  - first:
+      213: -7245370910016899230
+    second: MUR ATEHO-3_1069
+  - first:
+      213: 1089564639916695207
+    second: MUR ATEHO-3_1070
+  - first:
+      213: -167283615332054556
+    second: MUR ATEHO-3_1071
+  - first:
+      213: 5277292604104099433
+    second: MUR ATEHO-3_1072
+  - first:
+      213: -3543206812021506992
+    second: MUR ATEHO-3_1073
+  - first:
+      213: -8273977033699623381
+    second: MUR ATEHO-3_1074
+  - first:
+      213: -6311822774816407517
+    second: MUR ATEHO-3_1075
+  - first:
+      213: 4255192408318670258
+    second: MUR ATEHO-3_1076
+  - first:
+      213: 3158707631973699566
+    second: MUR ATEHO-3_1077
+  - first:
+      213: -6002868721098730099
+    second: MUR ATEHO-3_1078
+  - first:
+      213: -9142008078688912532
+    second: MUR ATEHO-3_1079
+  - first:
+      213: -5030799283025855481
+    second: MUR ATEHO-3_1080
+  - first:
+      213: 4651535096679318736
+    second: MUR ATEHO-3_1081
+  - first:
+      213: -6516477966302167960
+    second: MUR ATEHO-3_1082
+  - first:
+      213: -8715956814880025195
+    second: MUR ATEHO-3_1083
+  - first:
+      213: -8644267662019803753
+    second: MUR ATEHO-3_1084
+  - first:
+      213: 8758303127397060096
+    second: MUR ATEHO-3_1085
+  - first:
+      213: -8045627424912042636
+    second: MUR ATEHO-3_1086
+  - first:
+      213: -414828388693591732
+    second: MUR ATEHO-3_1087
+  - first:
+      213: -2280310362447088331
+    second: MUR ATEHO-3_1088
+  - first:
+      213: -7228331113352183688
+    second: MUR ATEHO-3_1089
+  - first:
+      213: 5979230696588564071
+    second: MUR ATEHO-3_1090
+  - first:
+      213: -8892497239510819822
+    second: MUR ATEHO-3_1091
+  - first:
+      213: -827357056694095474
+    second: MUR ATEHO-3_1092
+  - first:
+      213: -3079997667900817312
+    second: MUR ATEHO-3_1093
+  - first:
+      213: -1669787448509133263
+    second: MUR ATEHO-3_1094
+  - first:
+      213: 1031051506691549659
+    second: MUR ATEHO-3_1095
+  - first:
+      213: -5175990179947642601
+    second: MUR ATEHO-3_1096
+  - first:
+      213: -4490565366871586631
+    second: MUR ATEHO-3_1097
+  - first:
+      213: 556499517954958776
+    second: MUR ATEHO-3_1098
+  - first:
+      213: 8887738654289075574
+    second: MUR ATEHO-3_1099
+  - first:
+      213: -1229129260592405245
+    second: MUR ATEHO-3_1100
+  - first:
+      213: -2283021785034289693
+    second: MUR ATEHO-3_1101
+  - first:
+      213: -2501593043160082167
+    second: MUR ATEHO-3_1102
+  - first:
+      213: -6402181815444213612
+    second: MUR ATEHO-3_1103
+  - first:
+      213: -2216798799240842373
+    second: MUR ATEHO-3_1104
+  - first:
+      213: 3604126106269458158
+    second: MUR ATEHO-3_1105
+  - first:
+      213: -850564901751644437
+    second: MUR ATEHO-3_1106
+  - first:
+      213: 2138478411831180683
+    second: MUR ATEHO-3_1107
+  - first:
+      213: -3726058589367044197
+    second: MUR ATEHO-3_1108
+  - first:
+      213: -7544670186486320947
+    second: MUR ATEHO-3_1109
+  - first:
+      213: -7653944728869040956
+    second: MUR ATEHO-3_1110
+  - first:
+      213: -354416035131712731
+    second: MUR ATEHO-3_1111
+  - first:
+      213: -1874092046723054612
+    second: MUR ATEHO-3_1112
+  - first:
+      213: 1905483794312134110
+    second: MUR ATEHO-3_1113
+  - first:
+      213: -6541212293362327943
+    second: MUR ATEHO-3_1114
+  - first:
+      213: 8067151499439201296
+    second: MUR ATEHO-3_1115
+  - first:
+      213: 1399558834605219197
+    second: MUR ATEHO-3_1116
+  - first:
+      213: -7195906753731706413
+    second: MUR ATEHO-3_1117
+  - first:
+      213: -3189779333779106994
+    second: MUR ATEHO-3_1118
+  - first:
+      213: -798662120759995637
+    second: MUR ATEHO-3_1119
+  - first:
+      213: -7531883885611166471
+    second: MUR ATEHO-3_1120
+  - first:
+      213: 6213970633028285548
+    second: MUR ATEHO-3_1121
+  - first:
+      213: 6092568272683610031
+    second: MUR ATEHO-3_1122
+  - first:
+      213: -6157820518286178121
+    second: MUR ATEHO-3_1123
+  - first:
+      213: 606596779438785145
+    second: MUR ATEHO-3_1124
+  - first:
+      213: 4501478002387647154
+    second: MUR ATEHO-3_1125
+  - first:
+      213: 2128208197945036046
+    second: MUR ATEHO-3_1126
+  - first:
+      213: -428867575634343097
+    second: MUR ATEHO-3_1127
+  - first:
+      213: -5770250260498849793
+    second: MUR ATEHO-3_1128
+  - first:
+      213: 5828054927178136550
+    second: MUR ATEHO-3_1129
+  - first:
+      213: 2430022787897052702
+    second: MUR ATEHO-3_1130
+  - first:
+      213: -6684896850665495645
+    second: MUR ATEHO-3_1131
+  - first:
+      213: 6584496594208125920
+    second: MUR ATEHO-3_1132
+  - first:
+      213: 498711289431698571
+    second: MUR ATEHO-3_1133
+  - first:
+      213: 6501151241348464032
+    second: MUR ATEHO-3_1134
+  - first:
+      213: 4487390488619617084
+    second: MUR ATEHO-3_1135
+  - first:
+      213: 2755534327568772123
+    second: MUR ATEHO-3_1136
+  - first:
+      213: -1608347910610871874
+    second: MUR ATEHO-3_1137
+  - first:
+      213: 2387477020384434054
+    second: MUR ATEHO-3_1138
+  - first:
+      213: 3502641344391978317
+    second: MUR ATEHO-3_1139
+  - first:
+      213: -5733639643062677902
+    second: MUR ATEHO-3_1140
+  - first:
+      213: -4847704052087088536
+    second: MUR ATEHO-3_1141
+  - first:
+      213: 6542383771927702173
+    second: MUR ATEHO-3_1142
+  - first:
+      213: -4703750751740405850
+    second: MUR ATEHO-3_1143
+  - first:
+      213: 9153039036601332200
+    second: MUR ATEHO-3_1144
+  - first:
+      213: -7153039205921496519
+    second: MUR ATEHO-3_1145
+  - first:
+      213: -2273143444692463007
+    second: MUR ATEHO-3_1146
+  - first:
+      213: -7039632945619260366
+    second: MUR ATEHO-3_1147
+  - first:
+      213: -3641932353962967760
+    second: MUR ATEHO-3_1148
+  - first:
+      213: -77109801678300267
+    second: MUR ATEHO-3_1149
+  - first:
+      213: 3795315247225360283
+    second: MUR ATEHO-3_1150
+  - first:
+      213: 8003655992142877168
+    second: MUR ATEHO-3_1151
+  - first:
+      213: -2193412856333119717
+    second: MUR ATEHO-3_1152
+  - first:
+      213: -6655050443238381521
+    second: MUR ATEHO-3_1153
+  - first:
+      213: 2915798682247461218
+    second: MUR ATEHO-3_1154
+  - first:
+      213: -7404388415600313833
+    second: MUR ATEHO-3_1155
+  - first:
+      213: -1537128755437642047
+    second: MUR ATEHO-3_1156
+  - first:
+      213: 8390183365023791554
+    second: MUR ATEHO-3_1157
+  - first:
+      213: 5782262551021907509
+    second: MUR ATEHO-3_1158
+  - first:
+      213: 2721425059372673668
+    second: MUR ATEHO-3_1159
+  - first:
+      213: 5787271670708048886
+    second: MUR ATEHO-3_1160
+  - first:
+      213: -5367783969453839929
+    second: MUR ATEHO-3_1161
+  - first:
+      213: -2509507466124827622
+    second: MUR ATEHO-3_1162
+  - first:
+      213: -3192472305684764063
+    second: MUR ATEHO-3_1163
+  - first:
+      213: 3006751565237850239
+    second: MUR ATEHO-3_1164
+  - first:
+      213: -2171204697209671658
+    second: MUR ATEHO-3_1165
+  - first:
+      213: -7472466196638663831
+    second: MUR ATEHO-3_1166
+  - first:
+      213: -2289814272210624254
+    second: MUR ATEHO-3_1167
+  - first:
+      213: 5631883442156659096
+    second: MUR ATEHO-3_1168
+  - first:
+      213: 977375507130529814
+    second: MUR ATEHO-3_1169
+  - first:
+      213: -160741875023399956
+    second: MUR ATEHO-3_1170
+  - first:
+      213: -547950732694260209
+    second: MUR ATEHO-3_1171
+  - first:
+      213: -2548084903880824840
+    second: MUR ATEHO-3_1172
+  - first:
+      213: 6325581550693026119
+    second: MUR ATEHO-3_1173
+  - first:
+      213: -6728873885416078766
+    second: MUR ATEHO-3_1174
+  - first:
+      213: -6332072794000796187
+    second: MUR ATEHO-3_1175
+  - first:
+      213: 6071847863140072114
+    second: MUR ATEHO-3_1176
+  - first:
+      213: 6600983119726526116
+    second: MUR ATEHO-3_1177
+  - first:
+      213: 3947177037728378026
+    second: MUR ATEHO-3_1178
+  - first:
+      213: -4880761507436288581
+    second: MUR ATEHO-3_1179
+  - first:
+      213: -2268760910328590077
+    second: MUR ATEHO-3_1180
+  - first:
+      213: -110131004565407083
+    second: MUR ATEHO-3_1181
+  - first:
+      213: 2888635373449317526
+    second: MUR ATEHO-3_1182
+  - first:
+      213: 1846665554012920474
+    second: MUR ATEHO-3_1183
+  - first:
+      213: 5152568128153753525
+    second: MUR ATEHO-3_1184
+  - first:
+      213: -149553920503163650
+    second: MUR ATEHO-3_1185
+  - first:
+      213: -1539362809924920553
+    second: MUR ATEHO-3_1186
+  - first:
+      213: -4261295372790263403
+    second: MUR ATEHO-3_1187
+  - first:
+      213: -3649193667793892946
+    second: MUR ATEHO-3_1188
+  - first:
+      213: 5856219150422354689
+    second: MUR ATEHO-3_1189
+  - first:
+      213: -7861393921416352579
+    second: MUR ATEHO-3_1190
+  - first:
+      213: 9064239736274798240
+    second: MUR ATEHO-3_1191
+  - first:
+      213: -7053035183151073180
+    second: MUR ATEHO-3_1192
+  - first:
+      213: -7089192396900262148
+    second: MUR ATEHO-3_1193
+  - first:
+      213: -164379271246448418
+    second: MUR ATEHO-3_1194
+  - first:
+      213: 7260953631433908891
+    second: MUR ATEHO-3_1195
+  - first:
+      213: -4351807633252714445
+    second: MUR ATEHO-3_1196
+  - first:
+      213: 4008258603763541001
+    second: MUR ATEHO-3_1197
+  - first:
+      213: -8052008917133031026
+    second: MUR ATEHO-3_1198
+  - first:
+      213: 6905697449850221223
+    second: MUR ATEHO-3_1199
+  - first:
+      213: -1399380246455777561
+    second: MUR ATEHO-3_1200
+  - first:
+      213: -5335744527873356964
+    second: MUR ATEHO-3_1201
+  - first:
+      213: -9022493130219118232
+    second: MUR ATEHO-3_1202
+  - first:
+      213: -715481138767883387
+    second: MUR ATEHO-3_1203
+  - first:
+      213: 3197501450160799946
+    second: MUR ATEHO-3_1204
+  - first:
+      213: 6867884097236455690
+    second: MUR ATEHO-3_1205
+  - first:
+      213: 6791031771155452494
+    second: MUR ATEHO-3_1206
+  - first:
+      213: 6341894804076372325
+    second: MUR ATEHO-3_1207
+  - first:
+      213: 4141631215892625680
+    second: MUR ATEHO-3_1208
+  - first:
+      213: 5219765546673541752
+    second: MUR ATEHO-3_1209
+  - first:
+      213: -7976668694952077367
+    second: MUR ATEHO-3_1210
+  - first:
+      213: -1366405357381794813
+    second: MUR ATEHO-3_1211
+  - first:
+      213: 3418400349849128518
+    second: MUR ATEHO-3_1212
+  - first:
+      213: 5450932044305965229
+    second: MUR ATEHO-3_1213
+  - first:
+      213: -4656001591803032361
+    second: MUR ATEHO-3_1214
+  - first:
+      213: 7287181902617331024
+    second: MUR ATEHO-3_1215
+  - first:
+      213: 5329591505751891888
+    second: MUR ATEHO-3_1216
+  - first:
+      213: -6049262527371440845
+    second: MUR ATEHO-3_1217
+  - first:
+      213: 8364568062727355236
+    second: MUR ATEHO-3_1218
+  - first:
+      213: 3199013913373837591
+    second: MUR ATEHO-3_1219
+  - first:
+      213: 7985546171793678082
+    second: MUR ATEHO-3_1220
+  - first:
+      213: 6681869519717504428
+    second: MUR ATEHO-3_1221
+  - first:
+      213: 2951346498704226317
+    second: MUR ATEHO-3_1222
+  - first:
+      213: -3965818070088352404
+    second: MUR ATEHO-3_1223
+  - first:
+      213: -9050335150269909344
+    second: MUR ATEHO-3_1224
+  - first:
+      213: 1105183994260443468
+    second: MUR ATEHO-3_1225
+  - first:
+      213: 5704999134945275460
+    second: MUR ATEHO-3_1226
+  - first:
+      213: 1994378673255149810
+    second: MUR ATEHO-3_1227
+  - first:
+      213: -8652317769425698493
+    second: MUR ATEHO-3_1228
+  - first:
+      213: 9073098588044974930
+    second: MUR ATEHO-3_1229
+  - first:
+      213: -6793846213483379950
+    second: MUR ATEHO-3_1230
+  - first:
+      213: -8713313986989797894
+    second: MUR ATEHO-3_1231
+  - first:
+      213: -8202204203510298343
+    second: MUR ATEHO-3_1232
+  - first:
+      213: -5678881133358795556
+    second: MUR ATEHO-3_1233
+  - first:
+      213: 5803320309181249789
+    second: MUR ATEHO-3_1234
+  - first:
+      213: -3270099741316641383
+    second: MUR ATEHO-3_1235
+  - first:
+      213: 2221782038234350036
+    second: MUR ATEHO-3_1236
+  - first:
+      213: -5213324616485839349
+    second: MUR ATEHO-3_1237
+  - first:
+      213: -2839569541591755695
+    second: MUR ATEHO-3_1238
+  - first:
+      213: -1802739418482235349
+    second: MUR ATEHO-3_1239
+  - first:
+      213: 8774655036370795935
+    second: MUR ATEHO-3_1240
+  - first:
+      213: 9162071351574832703
+    second: MUR ATEHO-3_1241
+  - first:
+      213: -2844069016151997283
+    second: MUR ATEHO-3_1242
+  - first:
+      213: -477315821592290567
+    second: MUR ATEHO-3_1243
+  - first:
+      213: -1585796192194165520
+    second: MUR ATEHO-3_1244
+  - first:
+      213: 2229339417274658905
+    second: MUR ATEHO-3_1245
+  - first:
+      213: 3839574687823149978
+    second: MUR ATEHO-3_1246
+  - first:
+      213: 3799428118396747799
+    second: MUR ATEHO-3_1247
+  - first:
+      213: -1476162325292412984
+    second: MUR ATEHO-3_1248
+  - first:
+      213: -1688571136181138900
+    second: MUR ATEHO-3_1249
+  - first:
+      213: -5660498444287384898
+    second: MUR ATEHO-3_1250
+  - first:
+      213: -2979640759495347641
+    second: MUR ATEHO-3_1251
+  - first:
+      213: -8017195994071561402
+    second: MUR ATEHO-3_1252
+  - first:
+      213: 3598706515476953661
+    second: MUR ATEHO-3_1253
+  - first:
+      213: 1693704045255486093
+    second: MUR ATEHO-3_1254
+  - first:
+      213: 3555861079193362392
+    second: MUR ATEHO-3_1255
+  - first:
+      213: 6027333322949537593
+    second: MUR ATEHO-3_1256
+  - first:
+      213: -2171882216101471519
+    second: MUR ATEHO-3_1257
+  - first:
+      213: 757297913310007732
+    second: MUR ATEHO-3_1258
+  - first:
+      213: -6314846465325101045
+    second: MUR ATEHO-3_1259
+  - first:
+      213: -2096118030903495730
+    second: MUR ATEHO-3_1260
+  - first:
+      213: -6756579285491199475
+    second: MUR ATEHO-3_1261
+  - first:
+      213: -8049800340937061162
+    second: MUR ATEHO-3_1262
+  - first:
+      213: -7941166081778047606
+    second: MUR ATEHO-3_1263
+  - first:
+      213: 7683949741415633396
+    second: MUR ATEHO-3_1264
+  - first:
+      213: -1682294351358565591
+    second: MUR ATEHO-3_1265
+  - first:
+      213: 5543347849194031347
+    second: MUR ATEHO-3_1266
+  - first:
+      213: -3072870364550464235
+    second: MUR ATEHO-3_1267
+  - first:
+      213: -131759662926702244
+    second: MUR ATEHO-3_1268
+  - first:
+      213: 7613619487120561308
+    second: MUR ATEHO-3_1269
+  - first:
+      213: 7512699274990825434
+    second: MUR ATEHO-3_1270
+  - first:
+      213: 6679248132485302026
+    second: MUR ATEHO-3_1271
+  - first:
+      213: 740883318358094181
+    second: MUR ATEHO-3_1272
+  - first:
+      213: 7051304781796764961
+    second: MUR ATEHO-3_1273
+  - first:
+      213: 7408226807102965752
+    second: MUR ATEHO-3_1274
+  - first:
+      213: -2663894787887194222
+    second: MUR ATEHO-3_1275
+  - first:
+      213: 5688520004039992615
+    second: MUR ATEHO-3_1276
+  - first:
+      213: 6872833723860626365
+    second: MUR ATEHO-3_1277
+  - first:
+      213: 5413657021772514519
+    second: MUR ATEHO-3_1278
+  - first:
+      213: -4556484670302417669
+    second: MUR ATEHO-3_1279
+  - first:
+      213: -4021167333038418987
+    second: MUR ATEHO-3_1280
+  - first:
+      213: 164898722608649887
+    second: MUR ATEHO-3_1281
+  - first:
+      213: 6959973487851207336
+    second: MUR ATEHO-3_1282
+  - first:
+      213: -6761400192889467175
+    second: MUR ATEHO-3_1283
+  - first:
+      213: -2057628907698382706
+    second: MUR ATEHO-3_1284
+  - first:
+      213: 8281020984217083095
+    second: MUR ATEHO-3_1285
+  - first:
+      213: 9032764753454596798
+    second: MUR ATEHO-3_1286
+  - first:
+      213: 2438076724475508001
+    second: MUR ATEHO-3_1287
+  - first:
+      213: 6823136182018235073
+    second: MUR ATEHO-3_1288
+  - first:
+      213: -373183371210077107
+    second: MUR ATEHO-3_1289
+  - first:
+      213: 695346469332157730
+    second: MUR ATEHO-3_1290
+  - first:
+      213: -4446733155292983074
+    second: MUR ATEHO-3_1291
+  - first:
+      213: 2619784692617818051
+    second: MUR ATEHO-3_1292
+  - first:
+      213: 3571575050299746459
+    second: MUR ATEHO-3_1293
+  - first:
+      213: 1218468083095000158
+    second: MUR ATEHO-3_1294
+  - first:
+      213: 4151677418585733490
+    second: MUR ATEHO-3_1295
+  - first:
+      213: 2575654330361294225
+    second: MUR ATEHO-3_1296
+  - first:
+      213: 2591967418041385304
+    second: MUR ATEHO-3_1297
+  - first:
+      213: 2024598579226284558
+    second: MUR ATEHO-3_1298
+  - first:
+      213: 996420613782852575
+    second: MUR ATEHO-3_1299
+  - first:
+      213: 690935980485452503
+    second: MUR ATEHO-3_1300
+  - first:
+      213: -1241034477413605487
+    second: MUR ATEHO-3_1301
+  - first:
+      213: 6469228629381758783
+    second: MUR ATEHO-3_1302
+  - first:
+      213: 4274195526767574861
+    second: MUR ATEHO-3_1303
+  - first:
+      213: -8446548348928515972
+    second: MUR ATEHO-3_1304
+  - first:
+      213: 5596030078055405970
+    second: MUR ATEHO-3_1305
+  - first:
+      213: 3662304388342870330
+    second: MUR ATEHO-3_1306
+  - first:
+      213: 5861810563374123855
+    second: MUR ATEHO-3_1307
+  - first:
+      213: 8428450976605984163
+    second: MUR ATEHO-3_1308
+  - first:
+      213: 3776394189447751143
+    second: MUR ATEHO-3_1309
+  - first:
+      213: 5949295480781076801
+    second: MUR ATEHO-3_1310
+  - first:
+      213: 3392299902077503924
+    second: MUR ATEHO-3_1311
+  - first:
+      213: -2656061789015683746
+    second: MUR ATEHO-3_1312
+  - first:
+      213: -8243284146368897766
+    second: MUR ATEHO-3_1313
+  - first:
+      213: -6799349702133310980
+    second: MUR ATEHO-3_1314
+  - first:
+      213: 4170400121426651572
+    second: MUR ATEHO-3_1315
+  - first:
+      213: 4839950159763764262
+    second: MUR ATEHO-3_1316
+  - first:
+      213: -7621171842685206519
+    second: MUR ATEHO-3_1317
+  - first:
+      213: 7266587767707414064
+    second: MUR ATEHO-3_1318
+  - first:
+      213: 8105828659487771754
+    second: MUR ATEHO-3_1319
+  - first:
+      213: -1525348484832806653
+    second: MUR ATEHO-3_1320
+  - first:
+      213: -6481833416828615874
+    second: MUR ATEHO-3_1321
+  - first:
+      213: -9156284599102078538
+    second: MUR ATEHO-3_1322
+  - first:
+      213: -2009605939358040899
+    second: MUR ATEHO-3_1323
+  - first:
+      213: 875085287938579349
+    second: MUR ATEHO-3_1324
+  - first:
+      213: -1345882297920579446
+    second: MUR ATEHO-3_1325
+  - first:
+      213: 4882103592248668095
+    second: MUR ATEHO-3_1326
+  - first:
+      213: 1307880284313433018
+    second: MUR ATEHO-3_1327
+  - first:
+      213: -4443467038688311913
+    second: MUR ATEHO-3_1328
+  - first:
+      213: -8172882792733622403
+    second: MUR ATEHO-3_1329
+  - first:
+      213: 1480608245678150932
+    second: MUR ATEHO-3_1330
+  - first:
+      213: 5272651204600054521
+    second: MUR ATEHO-3_1331
+  - first:
+      213: 2245283746393723777
+    second: MUR ATEHO-3_1332
+  - first:
+      213: 5138691975132136491
+    second: MUR ATEHO-3_1333
+  - first:
+      213: 3941360579863413099
+    second: MUR ATEHO-3_1334
+  - first:
+      213: 1519805946971615402
+    second: MUR ATEHO-3_1335
+  - first:
+      213: 8539237156649896391
+    second: MUR ATEHO-3_1336
+  - first:
+      213: 3456093056688301489
+    second: MUR ATEHO-3_1337
+  - first:
+      213: -6967255718542058680
+    second: MUR ATEHO-3_1338
+  - first:
+      213: -2828937474559324185
+    second: MUR ATEHO-3_1339
+  - first:
+      213: -3061881484472310446
+    second: MUR ATEHO-3_1340
+  - first:
+      213: 2310649872075189965
+    second: MUR ATEHO-3_1341
+  - first:
+      213: -3105236067657731620
+    second: MUR ATEHO-3_1342
+  - first:
+      213: -1414441066467668826
+    second: MUR ATEHO-3_1343
+  - first:
+      213: -4373970300338542145
+    second: MUR ATEHO-3_1344
+  - first:
+      213: -8985270812987711640
+    second: MUR ATEHO-3_1345
+  - first:
+      213: 2337716577146813370
+    second: MUR ATEHO-3_1346
+  - first:
+      213: -5828427060877850866
+    second: MUR ATEHO-3_1347
+  - first:
+      213: -5348168757107211635
+    second: MUR ATEHO-3_1348
+  - first:
+      213: 9030493250529361164
+    second: MUR ATEHO-3_1349
+  - first:
+      213: -6571075117824135872
+    second: MUR ATEHO-3_1350
+  - first:
+      213: 8876200324738477990
+    second: MUR ATEHO-3_1351
+  - first:
+      213: 7757142408089292037
+    second: MUR ATEHO-3_1352
+  - first:
+      213: 1837108585343831179
+    second: MUR ATEHO-3_1353
+  - first:
+      213: -9213603773699413410
+    second: MUR ATEHO-3_1354
+  - first:
+      213: 5268539669832287759
+    second: MUR ATEHO-3_1355
+  - first:
+      213: 6362734350288418481
+    second: MUR ATEHO-3_1356
+  - first:
+      213: 5746799210104474567
+    second: MUR ATEHO-3_1357
+  - first:
+      213: 497590369614529479
+    second: MUR ATEHO-3_1358
+  - first:
+      213: -3920981288300039426
+    second: MUR ATEHO-3_1359
+  - first:
+      213: -4868323073118976483
+    second: MUR ATEHO-3_1360
+  - first:
+      213: -3182665901444528456
+    second: MUR ATEHO-3_1361
+  - first:
+      213: -2444997285519424966
+    second: MUR ATEHO-3_1362
+  - first:
+      213: 1888195128467301359
+    second: MUR ATEHO-3_1363
+  - first:
+      213: 7207764195372485567
+    second: MUR ATEHO-3_1364
+  - first:
+      213: 338619601583196920
+    second: MUR ATEHO-3_1365
+  - first:
+      213: -4709615899799283727
+    second: MUR ATEHO-3_1366
+  - first:
+      213: 6691121019854222084
+    second: MUR ATEHO-3_1367
+  - first:
+      213: 7462816642098442336
+    second: MUR ATEHO-3_1368
+  - first:
+      213: 4756193908588426518
+    second: MUR ATEHO-3_1369
+  - first:
+      213: 6558045779629738571
+    second: MUR ATEHO-3_1370
+  - first:
+      213: 6246034849300030857
+    second: MUR ATEHO-3_1371
+  - first:
+      213: 5286638842875169116
+    second: MUR ATEHO-3_1372
+  - first:
+      213: -4021855407028763897
+    second: MUR ATEHO-3_1373
+  - first:
+      213: 3338995497149411653
+    second: MUR ATEHO-3_1374
+  - first:
+      213: 845657295538516855
+    second: MUR ATEHO-3_1375
+  - first:
+      213: 4800830597606281129
+    second: MUR ATEHO-3_1376
+  - first:
+      213: 8604177574419732533
+    second: MUR ATEHO-3_1377
+  - first:
+      213: 1479919057362746029
+    second: MUR ATEHO-3_1378
+  - first:
+      213: -778299922755776953
+    second: MUR ATEHO-3_1379
+  - first:
+      213: -854592331876283366
+    second: MUR ATEHO-3_1380
+  - first:
+      213: -3232985610039268423
+    second: MUR ATEHO-3_1381
+  - first:
+      213: 6666186357060513012
+    second: MUR ATEHO-3_1382
+  - first:
+      213: 3814587203625737584
+    second: MUR ATEHO-3_1383
+  - first:
+      213: -9196796787290577092
+    second: MUR ATEHO-3_1384
+  - first:
+      213: -6124803700178463655
+    second: MUR ATEHO-3_1385
+  - first:
+      213: -8341319872262658814
+    second: MUR ATEHO-3_1386
+  - first:
+      213: -1246312612254516258
+    second: MUR ATEHO-3_1387
+  - first:
+      213: -4172383334088311335
+    second: MUR ATEHO-3_1388
+  - first:
+      213: -7023404222209924118
+    second: MUR ATEHO-3_1389
+  - first:
+      213: -3871174143427559439
+    second: MUR ATEHO-3_1390
+  - first:
+      213: -3033537201332428634
+    second: MUR ATEHO-3_1391
+  - first:
+      213: -6611707957011488036
+    second: MUR ATEHO-3_1392
+  - first:
+      213: -4083112960256401453
+    second: MUR ATEHO-3_1393
+  - first:
+      213: 5123043648670954398
+    second: MUR ATEHO-3_1394
+  - first:
+      213: -2595444412585185793
+    second: MUR ATEHO-3_1395
+  - first:
+      213: -4421445227028202248
+    second: MUR ATEHO-3_1396
+  - first:
+      213: 7130039990703949520
+    second: MUR ATEHO-3_1397
+  - first:
+      213: -5265992188056465092
+    second: MUR ATEHO-3_1398
+  - first:
+      213: 7921577006112185632
+    second: MUR ATEHO-3_1399
+  - first:
+      213: 7352987577481988906
+    second: MUR ATEHO-3_1400
+  - first:
+      213: 3599403239783866019
+    second: MUR ATEHO-3_1401
+  - first:
+      213: 9159682821715304121
+    second: MUR ATEHO-3_1402
+  - first:
+      213: -8410518538728343732
+    second: MUR ATEHO-3_1403
+  - first:
+      213: 8305128596396094654
+    second: MUR ATEHO-3_1404
+  - first:
+      213: -2233109749200846299
+    second: MUR ATEHO-3_1405
+  - first:
+      213: 2843957245172059126
+    second: MUR ATEHO-3_1406
+  - first:
+      213: -6430041837749897126
+    second: MUR ATEHO-3_1407
+  - first:
+      213: 8071137282343613261
+    second: MUR ATEHO-3_1408
+  - first:
+      213: 8081242132638622956
+    second: MUR ATEHO-3_1409
+  - first:
+      213: 1614056805068113705
+    second: MUR ATEHO-3_1410
+  - first:
+      213: -8919017696405566549
+    second: MUR ATEHO-3_1411
+  - first:
+      213: 4284989026919583588
+    second: MUR ATEHO-3_1412
+  - first:
+      213: -6955046590456207878
+    second: MUR ATEHO-3_1413
+  - first:
+      213: -1984157325135853563
+    second: MUR ATEHO-3_1414
+  - first:
+      213: 3649842649048825079
+    second: MUR ATEHO-3_1415
+  - first:
+      213: 7020826981555572583
+    second: MUR ATEHO-3_1416
+  - first:
+      213: 1870111072779610908
+    second: MUR ATEHO-3_1417
+  - first:
+      213: -7239821781689334555
+    second: MUR ATEHO-3_1418
+  - first:
+      213: 7963347807057851355
+    second: MUR ATEHO-3_1419
+  - first:
+      213: 5555967760939160924
+    second: MUR ATEHO-3_1420
+  - first:
+      213: -6857146564102403039
+    second: MUR ATEHO-3_1421
+  - first:
+      213: -6492377993092332687
+    second: MUR ATEHO-3_1422
+  - first:
+      213: 2292568049300857492
+    second: MUR ATEHO-3_1423
+  - first:
+      213: 581885221589843584
+    second: MUR ATEHO-3_1424
+  - first:
+      213: 4242753296366335453
+    second: MUR ATEHO-3_1425
+  - first:
+      213: -5181250148747812416
+    second: MUR ATEHO-3_1426
+  - first:
+      213: 4788969322284560128
+    second: MUR ATEHO-3_1427
+  - first:
+      213: 5323457197896380504
+    second: MUR ATEHO-3_1428
+  - first:
+      213: -9012359176178253767
+    second: MUR ATEHO-3_1429
+  - first:
+      213: -4146247224413358457
+    second: MUR ATEHO-3_1430
+  - first:
+      213: -7276654613446867386
+    second: MUR ATEHO-3_1431
+  - first:
+      213: 5689871151511941403
+    second: MUR ATEHO-3_1432
+  - first:
+      213: 3793290445344618995
+    second: MUR ATEHO-3_1433
+  - first:
+      213: -149070767051122453
+    second: MUR ATEHO-3_1434
+  - first:
+      213: 3792441064140264636
+    second: MUR ATEHO-3_1435
+  - first:
+      213: 1736599248466718377
+    second: MUR ATEHO-3_1436
+  - first:
+      213: 8021496900236811595
+    second: MUR ATEHO-3_1437
+  - first:
+      213: -2775999015292870698
+    second: MUR ATEHO-3_1438
+  - first:
+      213: -636312974116811464
+    second: MUR ATEHO-3_1439
+  - first:
+      213: -6550229802158052012
+    second: MUR ATEHO-3_1440
+  - first:
+      213: 7383479994584527805
+    second: MUR ATEHO-3_1441
+  - first:
+      213: -3846272136051066907
+    second: MUR ATEHO-3_1442
+  - first:
+      213: 3990094447575962857
+    second: MUR ATEHO-3_1443
+  - first:
+      213: 2035172366990622636
+    second: MUR ATEHO-3_1444
+  - first:
+      213: 6953368316541064802
+    second: MUR ATEHO-3_1445
+  - first:
+      213: 3497303293469800581
+    second: MUR ATEHO-3_1446
+  - first:
+      213: -6418723850213238818
+    second: MUR ATEHO-3_1447
+  - first:
+      213: -4909446078953515977
+    second: MUR ATEHO-3_1448
+  - first:
+      213: 1796274625967867417
+    second: MUR ATEHO-3_1449
+  - first:
+      213: -2079270007709732462
+    second: MUR ATEHO-3_1450
+  - first:
+      213: -1726098071870854257
+    second: MUR ATEHO-3_1451
+  - first:
+      213: -2877534756225073918
+    second: MUR ATEHO-3_1452
+  - first:
+      213: 2603557807973544061
+    second: MUR ATEHO-3_1453
+  - first:
+      213: 3053004906617799064
+    second: MUR ATEHO-3_1454
+  - first:
+      213: 5236500913872643776
+    second: MUR ATEHO-3_1455
+  - first:
+      213: 7884366330580901585
+    second: MUR ATEHO-3_1456
+  - first:
+      213: -4945135184757668325
+    second: MUR ATEHO-3_1457
+  - first:
+      213: 1804314550695639789
+    second: MUR ATEHO-3_1458
+  - first:
+      213: -6493975819190616248
+    second: MUR ATEHO-3_1459
+  - first:
+      213: 8238828391054729777
+    second: MUR ATEHO-3_1460
+  - first:
+      213: 7909911213579703862
+    second: MUR ATEHO-3_1461
+  - first:
+      213: 4524978282630638395
+    second: MUR ATEHO-3_1462
+  - first:
+      213: 1989339148992727905
+    second: MUR ATEHO-3_1463
+  - first:
+      213: 737567743557602079
+    second: MUR ATEHO-3_1464
+  - first:
+      213: 1094180695635355019
+    second: MUR ATEHO-3_1465
+  - first:
+      213: 6184178504073831678
+    second: MUR ATEHO-3_1466
+  - first:
+      213: 8164831579674973668
+    second: MUR ATEHO-3_1467
+  - first:
+      213: 1877640263388850190
+    second: MUR ATEHO-3_1468
+  - first:
+      213: 3514604145783485875
+    second: MUR ATEHO-3_1469
+  - first:
+      213: 8095621694737915689
+    second: MUR ATEHO-3_1470
+  - first:
+      213: 1198575898067004043
+    second: MUR ATEHO-3_1471
+  - first:
+      213: 1829057899862448369
+    second: MUR ATEHO-3_1472
+  - first:
+      213: 7637298673134316186
+    second: MUR ATEHO-3_1473
+  - first:
+      213: 1999448350984326990
+    second: MUR ATEHO-3_1474
+  - first:
+      213: 2694083402008435635
+    second: MUR ATEHO-3_1475
+  - first:
+      213: 3420577000137001522
+    second: MUR ATEHO-3_1476
+  - first:
+      213: 7720583084175419733
+    second: MUR ATEHO-3_1477
+  - first:
+      213: 582283702426931647
+    second: MUR ATEHO-3_1478
+  - first:
+      213: -7499384311800083649
+    second: MUR ATEHO-3_1479
+  - first:
+      213: 862664463639850789
+    second: MUR ATEHO-3_1480
+  - first:
+      213: 3261422119367735532
+    second: MUR ATEHO-3_1481
+  - first:
+      213: -4303096163278909377
+    second: MUR ATEHO-3_1482
+  - first:
+      213: 4843965163134601842
+    second: MUR ATEHO-3_1483
+  - first:
+      213: -7369530537539013882
+    second: MUR ATEHO-3_1484
+  - first:
+      213: 3984700301196126310
+    second: MUR ATEHO-3_1485
+  - first:
+      213: -9177953604523413547
+    second: MUR ATEHO-3_1486
+  - first:
+      213: 4124730394328463667
+    second: MUR ATEHO-3_1487
+  - first:
+      213: -5456950400125659128
+    second: MUR ATEHO-3_1488
+  - first:
+      213: 6962185188235820365
+    second: MUR ATEHO-3_1489
+  - first:
+      213: 3326469082158524586
+    second: MUR ATEHO-3_1490
+  - first:
+      213: -478055546048480232
+    second: MUR ATEHO-3_1491
+  - first:
+      213: 2221216100537569856
+    second: MUR ATEHO-3_1492
+  - first:
+      213: -207872499236209518
+    second: MUR ATEHO-3_1493
+  - first:
+      213: -9107805584378692142
+    second: MUR ATEHO-3_1494
+  - first:
+      213: 5652957925135844326
+    second: MUR ATEHO-3_1495
+  - first:
+      213: 5926224771354160698
+    second: MUR ATEHO-3_1496
+  - first:
+      213: -7800349852960515839
+    second: MUR ATEHO-3_1497
+  - first:
+      213: 8618653473358202510
+    second: MUR ATEHO-3_1498
+  - first:
+      213: -5255407235002125536
+    second: MUR ATEHO-3_1499
+  - first:
+      213: -1007851751369410139
+    second: MUR ATEHO-3_1500
+  - first:
+      213: 1803295664814290418
+    second: MUR ATEHO-3_1501
+  - first:
+      213: -2727353109914585690
+    second: MUR ATEHO-3_1502
+  - first:
+      213: -2604682387956693148
+    second: MUR ATEHO-3_1503
+  - first:
+      213: -7438309394581953934
+    second: MUR ATEHO-3_1504
+  - first:
+      213: -966566471438728472
+    second: MUR ATEHO-3_1505
+  - first:
+      213: -1733548411684776112
+    second: MUR ATEHO-3_1506
+  - first:
+      213: 9202031944389866956
+    second: MUR ATEHO-3_1507
+  - first:
+      213: -7909451038196699445
+    second: MUR ATEHO-3_1508
+  - first:
+      213: 994807025615406338
+    second: MUR ATEHO-3_1509
+  - first:
+      213: -4360149982053577614
+    second: MUR ATEHO-3_1510
+  - first:
+      213: -726276714247029234
+    second: MUR ATEHO-3_1511
+  - first:
+      213: 2742994517751559456
+    second: MUR ATEHO-3_1512
+  - first:
+      213: 6521776195414983893
+    second: MUR ATEHO-3_1513
+  - first:
+      213: -8345063954072558793
+    second: MUR ATEHO-3_1514
+  - first:
+      213: -7318800235612720827
+    second: MUR ATEHO-3_1515
+  - first:
+      213: 1604382320782299192
+    second: MUR ATEHO-3_1516
+  - first:
+      213: -6212913391189726888
+    second: MUR ATEHO-3_1517
+  - first:
+      213: 9154352604825581654
+    second: MUR ATEHO-3_1518
+  - first:
+      213: 2796640308596198489
+    second: MUR ATEHO-3_1519
+  - first:
+      213: 6913727895925880057
+    second: MUR ATEHO-3_1520
+  - first:
+      213: 5361002235064528566
+    second: MUR ATEHO-3_1521
+  - first:
+      213: 5393554196493260492
+    second: MUR ATEHO-3_1522
+  - first:
+      213: 2776095310338782013
+    second: MUR ATEHO-3_1523
+  - first:
+      213: 958046700988173512
+    second: MUR ATEHO-3_1524
+  - first:
+      213: 4712610276764908775
+    second: MUR ATEHO-3_1525
+  - first:
+      213: 5766493238879022735
+    second: MUR ATEHO-3_1526
+  - first:
+      213: -1797619355333558432
+    second: MUR ATEHO-3_1527
+  - first:
+      213: 7353895640412463802
+    second: MUR ATEHO-3_1528
+  - first:
+      213: 2225238936307966530
+    second: MUR ATEHO-3_1529
+  - first:
+      213: 7180728450666300137
+    second: MUR ATEHO-3_1530
+  - first:
+      213: 8339318567089383798
+    second: MUR ATEHO-3_1531
+  - first:
+      213: -7914562949202437664
+    second: MUR ATEHO-3_1532
+  - first:
+      213: -6401672141784267549
+    second: MUR ATEHO-3_1533
+  - first:
+      213: -8267757952359762935
+    second: MUR ATEHO-3_1534
+  - first:
+      213: -1151478548981032521
+    second: MUR ATEHO-3_1535
+  - first:
+      213: -5183669707752249438
+    second: MUR ATEHO-3_1536
+  - first:
+      213: 4892377128514122181
+    second: MUR ATEHO-3_1537
+  - first:
+      213: -2908786096725316270
+    second: MUR ATEHO-3_1538
+  - first:
+      213: -3579739862509605740
+    second: MUR ATEHO-3_1539
+  - first:
+      213: 2171021436044801907
+    second: MUR ATEHO-3_1540
+  - first:
+      213: 5853691830620093456
+    second: MUR ATEHO-3_1541
+  - first:
+      213: 3941086632305985610
+    second: MUR ATEHO-3_1542
+  - first:
+      213: 6199066522098688363
+    second: MUR ATEHO-3_1543
+  - first:
+      213: 8079599591652695012
+    second: MUR ATEHO-3_1544
+  - first:
+      213: 1061890011109927451
+    second: MUR ATEHO-3_1545
+  - first:
+      213: 7538988398758247013
+    second: MUR ATEHO-3_1546
+  - first:
+      213: 6488839329508845611
+    second: MUR ATEHO-3_1547
+  - first:
+      213: 7518403444815684043
+    second: MUR ATEHO-3_1548
+  - first:
+      213: 1623708033550203424
+    second: MUR ATEHO-3_1549
+  - first:
+      213: 7292182051735432702
+    second: MUR ATEHO-3_1550
+  - first:
+      213: -8209841460322689273
+    second: MUR ATEHO-3_1551
+  - first:
+      213: 1671553800278614023
+    second: MUR ATEHO-3_1552
+  - first:
+      213: -7295112585823683680
+    second: MUR ATEHO-3_1553
+  - first:
+      213: -6804148514065563684
+    second: MUR ATEHO-3_1554
+  - first:
+      213: 3736371758608402830
+    second: MUR ATEHO-3_1555
+  - first:
+      213: 4014437342664168068
+    second: MUR ATEHO-3_1556
+  - first:
+      213: -4831281842979945269
+    second: MUR ATEHO-3_1557
+  - first:
+      213: -70568240973509732
+    second: MUR ATEHO-3_1558
+  - first:
+      213: -2979409034793606098
+    second: MUR ATEHO-3_1559
+  - first:
+      213: 3529552510220029113
+    second: MUR ATEHO-3_1560
+  - first:
+      213: 3806816291026314273
+    second: MUR ATEHO-3_1561
+  - first:
+      213: -795440179836069321
+    second: MUR ATEHO-3_1562
+  - first:
+      213: -6846860547863031150
+    second: MUR ATEHO-3_1563
+  - first:
+      213: 3155864461351449090
+    second: MUR ATEHO-3_1564
+  - first:
+      213: 8097125564506791722
+    second: MUR ATEHO-3_1565
+  - first:
+      213: 8142856707300197681
+    second: MUR ATEHO-3_1566
+  - first:
+      213: 8686240787636182231
+    second: MUR ATEHO-3_1567
+  - first:
+      213: -5703657144410807167
+    second: MUR ATEHO-3_0
+  - first:
+      213: -3499170840040110064
+    second: MUR ATEHO-3_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MUR ATEHO-3_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18466c2eb0a88d0b0800000000000000
+      internalID: -5703657144410807167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 304
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018010f09a2707fc0800000000000000
+      internalID: -3499170840040110064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 304
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1b71f3efc981c0800000000000000
+      internalID: -4500837774664196632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 303
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753aaf72e8d30420800000000000000
+      internalID: 2595156277611607413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 303
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda79d061eccf8c10800000000000000
+      internalID: 2058088823096179422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 303
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ef6531da357140800000000000000
+      internalID: 4716740854959565194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 188
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a621bedb2af746110800000000000000
+      internalID: 1253266933263569514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 187
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b7038c3c4e0c00800000000000000
+      internalID: 868715600909154468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 188
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf29eca9ea331510800000000000000
+      internalID: 1518622274656743370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 186
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba064bf1b5f8e9e0800000000000000
+      internalID: -1591752323501782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 186
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f291e4d07b06020800000000000000
+      internalID: 2333065874750648131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 186
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08caa8a26d7c05fd0800000000000000
+      internalID: -2355162882464109440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 71
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3325cb3b6b30cfb0800000000000000
+      internalID: -4629635085186555078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 71
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223dc5036fd251a0800000000000000
+      internalID: -6822144869120789975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 71
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6127886621dee1e0800000000000000
+      internalID: -2166564407825981074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 70
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ccfa70c87ec9c80800000000000000
+      internalID: -8314516223422378882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 70
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce779f150085b0c0800000000000000
+      internalID: -4560598288149545275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUR ATEHO-3_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 70
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1106638f9c36340800000000000000
+      internalID: 4855946891136864683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
